@@ -27,10 +27,10 @@ const copy = {
   },
   "hero": {
     "eyebrow": "For nail salons, manicure bars, beauty studios & mobile nail artists",
-    "title": "Get More Local Nail Clients With Ads That Actually Convert",
-    "body": "Vietgrow builds your complete paid-ad growth system — service offers, scroll-stopping nail creatives, targeted local campaigns, and a polished landing page with a lead form designed to turn clicks into real manicure, pedicure, and nail art booking requests.",
-    "primary": "Get Free Nail Salon Growth Plan",
-    "secondary": "See how it works",
+    "title": "Stop Losing Nail Clients After They Click",
+    "body": "Most nail salons do not need more random posts. They need one clear offer, local ads, and a booking page that turns clicks into appointments. Vietgrow builds that system for $119/month.",
+    "primary": "Get Free Plan",
+    "secondary": "See the system",
     "trusted": "Trusted by local nail & beauty owners",
     "lockIn": "No long-term lock-in",
     "leadTitle": "New consultation request",
@@ -40,15 +40,15 @@ const copy = {
     "imageAlt": "A Vietnamese nail salon with an Asian nail technician doing a gel manicure"
   },
   "results": {
-    "title": "Nail salon owners who switched to a real system",
+    "title": "What changes when the booking path is clear",
     "stats": [
       {
         "value": "+50%",
-        "label": "more booking inquiries in month one"
+        "label": "more qualified booking requests"
       },
       {
         "value": "24/7",
-        "label": "campaigns working while you serve clients"
+        "label": "ad-to-booking funnel live 24/7"
       },
       {
         "value": "Done-for-you",
@@ -58,12 +58,12 @@ const copy = {
   },
   "system": {
     "eyebrow": "The Vietgrow Nail Salon Growth System",
-    "title": "A simple 3-step system that fills your nail chairs",
-    "body": "No random boosted posts. Just a clear, repeatable path from ad to booked client.",
+    "title": "The 3-part funnel we build for your nail salon",
+    "body": "No random boosted posts. One offer, one local campaign, one page built to book.",
     "steps": [
       {
         "number": "01",
-        "title": "Create Nail Offers & Ad Creatives",
+        "title": "Clarify the offer",
         "description": "We turn your services into clear, click-worthy campaign concepts — gel manicure offers, pedicure promos, acrylic fill specials, nail art sets, bridal packages, and seasonal designs — with short-form video ideas, carousel creatives, and polished beauty visuals.",
         "tags": [
           "Offer strategy",
@@ -73,7 +73,7 @@ const copy = {
       },
       {
         "number": "02",
-        "title": "Run Targeted Local Ads",
+        "title": "Run local traffic",
         "description": "We launch and manage Facebook & Instagram campaigns focused on reaching people near your salon who are most likely to book manicures, pedicures, extensions, fills, and nail art.",
         "tags": [
           "Local targeting",
@@ -83,7 +83,7 @@ const copy = {
       },
       {
         "number": "03",
-        "title": "Convert Clicks Into Booking Leads",
+        "title": "Convert on the page",
         "description": "Traffic lands on a nail-specific page with a lead form and a conversion-focused journey built to turn clicks into appointment inquiries, design requests, and real booking opportunities.",
         "tags": [
           "Landing page",
@@ -101,11 +101,11 @@ const copy = {
   },
   "package": {
     "eyebrow": "What you get",
-    "title": "One complete growth system for your nail salon",
-    "body": "Everything you need to attract, convert, and book more local nail clients — managed for you, month after month.",
+    "title": "What Vietgrow builds for $119/month",
+    "body": "A focused booking system: offer, ads, landing page, lead form, and optimization.",
     "label": "Nail Salon Growth System",
-    "cardTitle": "The done-for-you nail salon marketing package",
-    "cardBody": "Built, launched, and optimized by the Vietgrow team — so you can focus on creating great sets and serving clients.",
+    "cardTitle": "Done-for-you nail salon funnel",
+    "cardBody": "Built and optimized by Vietgrow so you can stay focused on clients.",
     "priceMeta": "per month",
     "cta": "Get my free plan",
     "included": "Everything included:",
@@ -159,18 +159,18 @@ const copy = {
     ]
   },
   "cta": {
-    "title": "Ready to turn ad clicks into booked nail clients?",
+    "title": "Ready to stop wasting local ad clicks?",
     "body": "Get a free, practical growth plan built for your nail salon — your offers, your services, your local market. No pressure, no obligation.",
-    "button": "Get Free Nail Salon Growth Plan"
+    "button": "Get Free Plan"
   },
   "form": {
     "eyebrow": "Free, no pressure",
-    "title": "Get Your Free Nail Salon Growth Plan",
-    "body": "Tell us about your nail business and goals. We'll review your services, location, and local competition, then recommend a practical plan for attracting more manicure, pedicure, gel, and nail art clients.",
+    "title": "Get a Free Nail Funnel Review",
+    "body": "Send your salon details. We will review your offer, local market, and current booking path, then send back a practical growth plan.",
     "expectations": [
-      "A review of your nail salon, services & local market",
-      "Offer & ad creative ideas tailored to your nail services",
-      "A clear, practical plan to attract more local clients"
+      "What is blocking more qualified bookings",
+      "Which offer and ad angle to test first",
+      "What page/form flow should be fixed"
     ],
     "privacy": "Your information is only used to prepare your nail salon growth plan. No spam. No pressure.",
     "successTitle": "Thank you!",
@@ -251,7 +251,7 @@ const copy = {
       }
     ],
     "submitting": "Submitting...",
-    "submit": "Get Free Nail Salon Growth Plan",
+    "submit": "Get Free Plan",
     "footer": "No spam. No pressure. Just your free plan."
   },
   "faq": {
@@ -313,9 +313,9 @@ const copy = {
   },
   "hero": {
     "eyebrow": "Dành cho nail salon, manicure bar, beauty studio và mobile nail artist",
-    "title": "Tăng khách nail local bằng quảng cáo thật sự ra booking",
-    "body": "Vietgrow xây trọn hệ thống paid ads cho nail salon của bạn: offer dịch vụ, nail creative bắt mắt, campaign nhắm đúng khách quanh khu vực, landing page và lead form để biến lượt click thành lịch hẹn manicure, pedicure, gel và nail art thật.",
-    "primary": "Nhận Nail Growth Plan miễn phí",
+    "title": "Đừng để khách nail rơi mất sau cú click",
+    "body": "Nhiều nail salon không thiếu post, mà thiếu offer rõ, ads đúng tệp và booking page biết chuyển đổi. Vietgrow xây hệ thống đó cho bạn với $119/tháng.",
+    "primary": "Nhận plan miễn phí",
     "secondary": "Xem cách hoạt động",
     "trusted": "Được tin dùng bởi chủ nail salon và beauty business local",
     "lockIn": "Không ràng buộc dài hạn",
@@ -326,15 +326,15 @@ const copy = {
     "imageAlt": "Tiệm nail Việt với nail technician người Việt/Asian đang làm gel manicure cho khách"
   },
   "results": {
-    "title": "Chủ nail salon chuyển sang một hệ thống bài bản",
+    "title": "Điều thay đổi khi đường đi booking rõ ràng",
     "stats": [
       {
         "value": "+50%",
-        "label": "booking inquiries trong tháng đầu"
+        "label": "booking requests chất lượng hơn"
       },
       {
         "value": "24/7",
-        "label": "campaign vẫn chạy khi bạn đang phục vụ khách"
+        "label": "funnel ads-to-booking chạy 24/7"
       },
       {
         "value": "Done-for-you",
@@ -344,12 +344,12 @@ const copy = {
   },
   "system": {
     "eyebrow": "Vietgrow Nail Salon Growth System",
-    "title": "Hệ thống 3 bước đơn giản để lấp đầy ghế làm nail",
-    "body": "Không còn boost post ngẫu nhiên. Chỉ là một hành trình rõ ràng, lặp lại được, từ quảng cáo đến khách đặt lịch.",
+    "title": "Funnel 3 phần Vietgrow xây cho nail salon của bạn",
+    "body": "Không boost post ngẫu nhiên. Một offer rõ, một campaign local, một page được xây để đặt lịch.",
     "steps": [
       {
         "number": "01",
-        "title": "Tạo offer nail và ad creative",
+        "title": "Làm rõ offer",
         "description": "Chúng tôi biến dịch vụ của bạn thành campaign concept rõ ràng, dễ click: gel manicure offer, pedicure promo, acrylic fill special, nail art set, bridal package và seasonal design, kèm ý tưởng video ngắn, carousel creative và visual chuẩn beauty.",
         "tags": [
           "Offer strategy",
@@ -359,7 +359,7 @@ const copy = {
       },
       {
         "number": "02",
-        "title": "Chạy quảng cáo local đúng tệp khách",
+        "title": "Kéo traffic local đúng tệp",
         "description": "Chúng tôi launch và quản lý campaign Facebook & Instagram tập trung vào nhóm khách gần salon, có khả năng đặt manicure, pedicure, extension, fill và nail art.",
         "tags": [
           "Local targeting",
@@ -369,7 +369,7 @@ const copy = {
       },
       {
         "number": "03",
-        "title": "Biến click thành lead đặt lịch",
+        "title": "Chuyển đổi trên landing page",
         "description": "Traffic được đưa về landing page riêng cho nail salon, có lead form và journey tối ưu chuyển đổi để tạo appointment inquiry, design request và cơ hội booking thật.",
         "tags": [
           "Landing page",
@@ -387,11 +387,11 @@ const copy = {
   },
   "package": {
     "eyebrow": "Gói dịch vụ",
-    "title": "Một hệ thống tăng trưởng hoàn chỉnh cho nail salon của bạn",
-    "body": "Mọi thứ bạn cần để thu hút, chuyển đổi và có thêm khách nail local booking — được Vietgrow vận hành hằng tháng.",
+    "title": "Vietgrow xây gì với $119/tháng",
+    "body": "Một hệ thống booking gọn: offer, ads, landing page, lead form và tối ưu.",
     "label": "Nail Salon Growth System",
-    "cardTitle": "Gói nail salon marketing done-for-you",
-    "cardBody": "Vietgrow xây, launch và tối ưu toàn bộ hệ thống để bạn tập trung làm nail đẹp và phục vụ khách.",
+    "cardTitle": "Nail salon funnel done-for-you",
+    "cardBody": "Vietgrow xây và tối ưu để bạn tập trung phục vụ khách.",
     "priceMeta": "mỗi tháng",
     "cta": "Nhận plan miễn phí",
     "included": "Bao gồm tất cả:",
@@ -445,18 +445,18 @@ const copy = {
     ]
   },
   "cta": {
-    "title": "Sẵn sàng biến lượt click quảng cáo thành khách nail đặt lịch?",
+    "title": "Sẵn sàng ngừng lãng phí click local?",
     "body": "Nhận một growth plan thực tế, miễn phí, được xây theo nail salon của bạn: offer, dịch vụ và thị trường local. Không ép bán, không ràng buộc.",
-    "button": "Nhận Nail Growth Plan miễn phí"
+    "button": "Nhận plan miễn phí"
   },
   "form": {
     "eyebrow": "Miễn phí, không áp lực",
-    "title": "Nhận Nail Growth Plan miễn phí",
-    "body": "Cho chúng tôi biết về nail business và mục tiêu của bạn. Vietgrow sẽ xem xét dịch vụ, khu vực, đối thủ local và đề xuất một plan thực tế để thu hút thêm khách manicure, pedicure, gel và nail art.",
+    "title": "Nhận plan miễn phí",
+    "body": "Gửi thông tin nail salon. Vietgrow sẽ xem offer, thị trường local và đường đi booking hiện tại, rồi gửi lại plan thực tế.",
     "expectations": [
-      "Review nail salon, dịch vụ và thị trường local của bạn",
-      "Ý tưởng offer và ad creative phù hợp với dịch vụ nail",
-      "Plan rõ ràng, thực tế để có thêm khách local"
+      "Điểm đang làm mất booking chất lượng",
+      "Offer và ad angle nên test trước",
+      "Page/form flow nào cần sửa"
     ],
     "privacy": "Thông tin của bạn chỉ dùng để chuẩn bị nail salon growth plan. Không spam. Không gây áp lực.",
     "successTitle": "Cảm ơn bạn!",
@@ -537,7 +537,7 @@ const copy = {
       }
     ],
     "submitting": "Đang gửi...",
-    "submit": "Nhận Nail Growth Plan miễn phí",
+    "submit": "Nhận plan miễn phí",
     "footer": "Không spam. Không áp lực. Chỉ là plan miễn phí cho bạn."
   },
   "faq": {
