@@ -37,7 +37,7 @@ const copy = {
     "leadMeta": "Gel manicure · 2 min ago",
     "callTitle": "+12 leads this week",
     "callMeta": "from your local ad campaign",
-    "imageAlt": "A polished nail salon station with manicure tools and fresh nail colors"
+    "imageAlt": "A Vietnamese nail salon with an Asian nail technician doing a gel manicure"
   },
   "results": {
     "title": "Nail salon owners who switched to a real system",
@@ -323,7 +323,7 @@ const copy = {
     "leadMeta": "Gel manicure · 2 phút trước",
     "callTitle": "+12 leads tuần này",
     "callMeta": "từ local ad campaign của bạn",
-    "imageAlt": "Khu làm nail chuyên nghiệp với dụng cụ manicure và màu sơn mới"
+    "imageAlt": "Tiệm nail Việt với nail technician người Việt/Asian đang làm gel manicure cho khách"
   },
   "results": {
     "title": "Chủ nail salon chuyển sang một hệ thống bài bản",
