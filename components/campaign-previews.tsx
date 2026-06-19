@@ -2,15 +2,15 @@ import Image from 'next/image'
 import { Heart, MessageCircle, Send, CalendarCheck, Play } from 'lucide-react'
 
 const campaigns = [
-  'New client facial offer',
-  'Skincare consultation campaign',
-  'Massage package promotion',
-  'Body treatment special',
+  'New client gel manicure offer',
+  'Pedicure refresh campaign',
+  'Acrylic fill promotion',
+  'BIAB / builder gel special',
   'Weekday appointment fill',
-  'Seasonal spa promotion',
-  'Anti-aging facial campaign',
-  'Acne treatment consultation',
-  'Relaxation & wellness package',
+  'Seasonal nail art launch',
+  'Bridal nail package',
+  'French tip set campaign',
+  'Lash + nail beauty bundle',
 ]
 
 function PhoneFrame({ children }: { children: React.ReactNode }) {
@@ -44,8 +44,8 @@ export function CampaignPreviews() {
             <PhoneFrame>
               <div className="relative">
                 <Image
-                  src="/massage-spa.png"
-                  alt="Video ad preview for a massage and wellness package"
+                  src="/nail-video-preview.png"
+                  alt="Video ad preview for a glossy manicure and nail art package"
                   width={260}
                   height={340}
                   className="h-[340px] w-full object-cover"
@@ -58,10 +58,10 @@ export function CampaignPreviews() {
                 </div>
                 <div className="absolute bottom-0 left-0 right-0 bg-gradient-to-t from-foreground/80 to-transparent p-4">
                   <p className="text-sm font-semibold text-background">
-                    Relax &amp; Renew Package
+                    Gloss &amp; Go Gel Set
                   </p>
                   <p className="text-xs text-background/80">
-                    60-min signature massage · Book this week
+                    Gel manicure + simple art · Book this week
                   </p>
                 </div>
               </div>
@@ -76,17 +76,17 @@ export function CampaignPreviews() {
             <PhoneFrame>
               <div className="p-3">
                 <Image
-                  src="/skincare-flatlay.png"
-                  alt="Carousel ad preview showing a new client facial offer"
+                  src="/nail-flatlay-offer.png"
+                  alt="Carousel ad preview showing a new client gel manicure offer"
                   width={240}
                   height={220}
                   className="h-[200px] w-full rounded-xl object-cover"
                 />
                 <p className="mt-3 text-sm font-semibold text-foreground">
-                  New Client Glow Facial
+                  New Client Gel Manicure
                 </p>
                 <p className="mt-1 text-xs text-muted-foreground">
-                  Limited spots for first-time guests this month.
+                  Fresh color, cuticle care, and a glossy finish.
                 </p>
                 <div className="mt-3 flex items-center gap-4 text-muted-foreground">
                   <Heart className="h-4 w-4" aria-hidden="true" />
@@ -94,7 +94,7 @@ export function CampaignPreviews() {
                   <Send className="h-4 w-4" aria-hidden="true" />
                 </div>
                 <div className="mt-3 rounded-lg bg-primary py-2 text-center text-xs font-semibold text-primary-foreground">
-                  Book my facial
+                  Book my nail appointment
                 </div>
               </div>
             </PhoneFrame>
@@ -108,10 +108,10 @@ export function CampaignPreviews() {
             <PhoneFrame>
               <div className="p-4">
                 <p className="text-sm font-semibold text-foreground">
-                  Request your consultation
+                  Request your appointment
                 </p>
                 <div className="mt-3 space-y-2">
-                  {['Full name', 'Phone number', 'Treatment of interest'].map(
+                  {['Full name', 'Phone number', 'Service of interest'].map(
                     (label) => (
                       <div
                         key={label}
@@ -137,7 +137,7 @@ export function CampaignPreviews() {
               </div>
             </PhoneFrame>
             <p className="text-center text-sm font-medium text-foreground">
-              Spa landing page &amp; lead form
+              Nail salon landing page &amp; lead form
             </p>
           </div>
         </div>
@@ -145,7 +145,7 @@ export function CampaignPreviews() {
         {/* Campaign examples */}
         <div className="mt-14">
           <p className="text-center text-sm font-medium text-muted-foreground">
-            Campaign concepts we build for spas:
+            Campaign concepts we build for nail salons:
           </p>
           <div className="mt-5 flex flex-wrap justify-center gap-2.5">
             {campaigns.map((c) => (

@@ -17,14 +17,14 @@ import {
 import { AlertCircle, CheckCircle2, Loader2, Lock, Sparkles } from 'lucide-react'
 
 const businessTypes = [
-  'Day Spa',
-  'Facial Spa',
-  'Skincare Studio',
-  'Medspa / Beauty Clinic',
-  'Massage Spa',
-  'Waxing Studio',
-  'Wellness / Beauty Studio',
-  'Other Spa Business',
+  'Nail Salon',
+  'Manicure / Pedicure Studio',
+  'Independent Nail Tech',
+  'Mobile Nail Artist',
+  'Nail & Beauty Salon',
+  'Lash, Brow & Nail Studio',
+  'Beauty Bar',
+  'Other Nail Business',
 ]
 
 const budgets = [
@@ -36,8 +36,8 @@ const budgets = [
 ]
 
 const expectations = [
-  'A review of your spa, services & local market',
-  'Offer & ad creative ideas tailored to your treatments',
+  'A review of your nail salon, services & local market',
+  'Offer & ad creative ideas tailored to your nail services',
   'A clear, practical plan to attract more local clients',
 ]
 
@@ -58,7 +58,7 @@ function SubmitButton() {
           Submitting...
         </>
       ) : (
-        'Get Free Spa Growth Plan'
+        'Get Free Nail Salon Growth Plan'
       )}
     </Button>
   )
@@ -79,12 +79,13 @@ export function LeadForm() {
             Free, no pressure
           </p>
           <h2 className="mt-3 text-balance font-heading text-3xl font-semibold tracking-tight text-foreground sm:text-4xl">
-            Get Your Free Spa Growth Plan
+            Get Your Free Nail Salon Growth Plan
           </h2>
           <p className="mt-4 text-pretty leading-relaxed text-muted-foreground">
-            Tell us about your spa and goals. We&apos;ll review your business,
-            services, and location, then recommend a practical plan for
-            attracting more local spa and skincare clients.
+            Tell us about your nail business and goals. We&apos;ll review your
+            services, location, and local competition, then recommend a
+            practical plan for attracting more manicure, pedicure, gel, and nail
+            art clients.
           </p>
 
           <ul className="mt-8 space-y-4">
@@ -106,8 +107,8 @@ export function LeadForm() {
               aria-hidden="true"
             />
             <p className="text-xs leading-relaxed text-muted-foreground">
-              Your information is only used to prepare your spa growth plan. No
-              spam. No pressure.
+              Your information is only used to prepare your nail salon growth
+              plan. No spam. No pressure.
             </p>
           </div>
         </div>
@@ -122,9 +123,9 @@ export function LeadForm() {
                 Thank you!
               </h3>
               <p className="mt-3 max-w-sm text-pretty text-muted-foreground">
-                We&apos;ve received your details and will prepare your free spa
-                growth plan. Our team will reach out shortly with your next
-                steps.
+                We&apos;ve received your details and will prepare your free nail
+                salon growth plan. Our team will reach out shortly with your
+                next steps.
               </p>
             </div>
           ) : (
@@ -142,7 +143,7 @@ export function LeadForm() {
                     id="businessName"
                     name="businessName"
                     required
-                    placeholder="Lotus Day Spa"
+                    placeholder="Gloss Nail Studio"
                   />
                 </div>
               </div>
@@ -165,7 +166,7 @@ export function LeadForm() {
                     name="email"
                     type="email"
                     required
-                    placeholder="you@spa.com"
+                    placeholder="you@nailsalon.com"
                   />
                 </div>
               </div>
@@ -175,7 +176,7 @@ export function LeadForm() {
                   <Label htmlFor="businessType">Business type</Label>
                   <Select
                     value={businessType}
-                    onValueChange={setBusinessType}
+                    onValueChange={(value) => setBusinessType(value ?? '')}
                     required
                   >
                     <SelectTrigger id="businessType" className="w-full">
@@ -192,7 +193,11 @@ export function LeadForm() {
                 </div>
                 <div className="space-y-1.5">
                   <Label htmlFor="budget">Monthly ad budget</Label>
-                  <Select value={budget} onValueChange={setBudget} required>
+                  <Select
+                    value={budget}
+                    onValueChange={(value) => setBudget(value ?? '')}
+                    required
+                  >
                     <SelectTrigger id="budget" className="w-full">
                       <SelectValue placeholder="Select budget" />
                     </SelectTrigger>

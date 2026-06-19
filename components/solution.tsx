@@ -7,12 +7,12 @@ const points = [
     body: 'Offer strategy, creatives, campaigns, landing page, and lead form — built to work together so every dollar has a job.',
   },
   {
-    title: 'Built specifically for spa & skincare',
-    body: 'Facials, skincare, massage, body treatments and wellness packages — we speak your clients\u2019 language, not generic marketing.',
+    title: 'Built specifically for nail services',
+    body: 'Gel manicures, pedicures, acrylics, BIAB, extensions, nail art, and bridal sets — we speak your clients\u2019 language, not generic marketing.',
   },
   {
     title: 'Designed to win locally',
-    body: 'We position you against nearby spas and reach the right people in your area who are ready to book.',
+    body: 'We position you against nearby salons and reach the right people in your area who are ready to book.',
   },
 ]
 
@@ -23,8 +23,8 @@ export function Solution() {
         <div className="relative order-last lg:order-first">
           <div className="overflow-hidden rounded-3xl border border-primary-foreground/10 shadow-2xl">
             <Image
-              src="/facial-treatment.png"
-              alt="An esthetician giving a relaxing facial treatment in a premium spa"
+              src="/nail-service-closeup.png"
+              alt="A close-up of a detailed gel manicure service with polish bottles and nail tools"
               width={680}
               height={760}
               className="h-full w-full object-cover"
@@ -37,13 +37,13 @@ export function Solution() {
             What Vietgrow does for you
           </p>
           <h2 className="mt-3 text-balance font-heading text-3xl font-semibold tracking-tight sm:text-4xl">
-            We build your spa&apos;s entire client-getting machine
+            We build your nail salon&apos;s entire client-getting machine
           </h2>
           <p className="mt-4 text-pretty leading-relaxed text-primary-foreground/80">
             Vietgrow creates the offer strategy, ad content, video and carousel
             creative, targeted campaign, landing page, lead form, and customer
-            acquisition funnel — built for spas, skincare studios, facial
-            clinics, massage spas, and wellness beauty businesses.
+            acquisition funnel — built for nail salons, nail techs, manicure
+            bars, beauty studios, and mobile nail artists.
           </p>
 
           <ul className="mt-8 space-y-5">
