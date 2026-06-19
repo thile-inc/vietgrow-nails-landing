@@ -13,17 +13,17 @@ const benefits = [
   {
     icon: Users,
     title: 'More qualified local leads',
-    body: 'Reach people near you who actually want spa and skincare treatments.',
+    body: 'Reach people near you who are actively looking for manicures, pedicures, gel sets, and nail art.',
   },
   {
     icon: CalendarCheck,
     title: 'More consultation & booking requests',
-    body: 'Turn interest into real appointment inquiries, not dead-end messages.',
+    body: 'Turn interest into real appointment inquiries, not dead-end DMs asking only for prices.',
   },
   {
     icon: Palette,
     title: 'Better ad creatives',
-    body: 'Premium video and carousel creative that fits your spa brand.',
+    body: 'Premium video and carousel creative that shows your colors, sets, designs, and salon style.',
   },
   {
     icon: Route,
@@ -37,18 +37,18 @@ const benefits = [
   },
   {
     icon: LayoutGrid,
-    title: 'A page built for spa services',
-    body: 'A landing page made specifically for facials, skincare, and wellness.',
+    title: 'A page built for nail services',
+    body: 'A landing page made specifically for manicures, pedicures, extensions, gel, and nail art.',
   },
   {
     icon: MapPin,
     title: 'Stronger local positioning',
-    body: 'Stand out from nearby spas and win clients in your area.',
+    body: 'Stand out from nearby nail salons and win clients in your area.',
   },
   {
     icon: Clock,
     title: 'Fuller weekday calendar',
-    body: 'Fill slow weekday slots with targeted appointment-fill campaigns.',
+    body: 'Fill slower weekday slots with targeted appointment-fill campaigns.',
   },
 ]
 
@@ -61,7 +61,7 @@ export function Benefits() {
             What you can expect
           </p>
           <h2 className="mt-3 text-balance font-heading text-3xl font-semibold tracking-tight text-foreground sm:text-4xl">
-            Real outcomes for your spa
+            Real outcomes for your nail salon
           </h2>
         </div>
 

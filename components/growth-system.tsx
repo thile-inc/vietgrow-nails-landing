@@ -4,9 +4,9 @@ const steps = [
   {
     number: '01',
     icon: Sparkles,
-    title: 'Create Spa Offers & Ad Creatives',
+    title: 'Create Nail Offers & Ad Creatives',
     description:
-      'We turn your treatments into clear, click-worthy campaign concepts — facial offers, skincare consultations, massage packages, body treatments, and seasonal promos — with short-form video ideas, carousel creatives, and premium wellness visuals.',
+      'We turn your services into clear, click-worthy campaign concepts — gel manicure offers, pedicure promos, acrylic fill specials, nail art sets, bridal packages, and seasonal designs — with short-form video ideas, carousel creatives, and polished beauty visuals.',
     tags: ['Offer strategy', 'Video & carousel ads', 'Premium visuals'],
   },
   {
@@ -14,7 +14,7 @@ const steps = [
     icon: Target,
     title: 'Run Targeted Local Ads',
     description:
-      'We launch and manage Facebook & Instagram campaigns focused on reaching people near your spa who are most likely to book facials, skincare, relaxation, and wellness treatments.',
+      'We launch and manage Facebook & Instagram campaigns focused on reaching people near your salon who are most likely to book manicures, pedicures, extensions, fills, and nail art.',
     tags: ['Local targeting', 'FB & IG campaigns', 'Budget control'],
   },
   {
@@ -22,16 +22,16 @@ const steps = [
     icon: MousePointerClick,
     title: 'Convert Clicks Into Booking Leads',
     description:
-      'Traffic lands on a spa-specific page with a lead form and a conversion-focused journey built to turn clicks into consultation requests, appointment inquiries, and real booking opportunities.',
+      'Traffic lands on a nail-specific page with a lead form and a conversion-focused journey built to turn clicks into appointment inquiries, design requests, and real booking opportunities.',
     tags: ['Landing page', 'Lead form', 'Follow-up path'],
   },
 ]
 
 const flow = [
-  'Spa Offer + Ad Creative',
+  'Nail Offer + Ad Creative',
   'Local Traffic',
   'Landing Page + Lead Form',
-  'Consultation / Booking',
+  'Appointment / Booking',
 ]
 
 export function GrowthSystem() {
@@ -40,10 +40,10 @@ export function GrowthSystem() {
       <div className="mx-auto max-w-6xl px-4 sm:px-6">
         <div className="mx-auto max-w-2xl text-center">
           <p className="text-sm font-semibold uppercase tracking-wider text-primary">
-            The Vietgrow Spa Growth System
+            The Vietgrow Nail Salon Growth System
           </p>
           <h2 className="mt-3 text-balance font-heading text-3xl font-semibold tracking-tight text-foreground sm:text-4xl">
-            A simple 3-step system that fills your treatment rooms
+            A simple 3-step system that fills your nail chairs
           </h2>
           <p className="mt-4 text-pretty text-muted-foreground">
             No random boosted posts. Just a clear, repeatable path from ad to
