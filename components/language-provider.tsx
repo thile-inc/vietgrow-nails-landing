@@ -26,103 +26,103 @@ const copy = {
       cta: "Get Free Plan"
     },
     hero: {
-      eyebrow: "For nail salons, nail techs, beauty bars, and manicure studios",
-      title: "Get 50 Nail Booking Requests Without Discounting Every Service",
-      body: "Vietgrow builds the offer, ads, booking page, and inquiry form so nearby clients know exactly why to choose your salon.",
+      eyebrow: "For nail salons and nail techs",
+      title: "50 New Nail Booking Requests",
+      body: "One nail service. One sharp offer. One simple booking page.",
       primary: "Get Free Plan",
       secondary: "See how it works",
-      trusted: "Built for local nail and beauty owners",
+      trusted: "For nail owners who need fuller calendars",
       lockIn: "No long-term contract",
-      leadTitle: "New appointment request",
+      leadTitle: "New booking request",
       leadMeta: "Gel manicure - 2 min ago",
       callTitle: "50 booking requests",
       callMeta: "from one local campaign",
       imageAlt: "A Vietnamese nail salon with an Asian nail technician doing a gel manicure"
     },
     results: {
-      title: "A clearer path from ad click to nail appointment",
+      title: "More bookings without guessing what to post.",
       stats: [
         {
           value: "50",
-          label: "nail booking requests"
+          label: "booking requests"
         },
         {
-          value: "24/7",
-          label: "booking path stays live"
+          value: "1",
+          label: "nail service to promote"
         },
         {
           value: "$119",
-          label: "monthly system fee"
+          label: "per month"
         }
       ]
     },
     system: {
       eyebrow: "How it works",
-      title: "Choose one nail offer. Reach the right clients. Turn clicks into bookings.",
-      body: "A simple three-step path built for new appointment requests.",
+      title: "How one nail service becomes new bookings",
+      body: "A simple path from attention to appointment request.",
       steps: [
         {
           number: "01",
-          title: "Choose the nail service",
-          description: "Pick one nail service with a bold price offer to attract new clients.",
+          title: "Pick one nail service",
+          description: "Choose one nail service with a bold price offer.",
           tags: [
-            "Nail service",
-            "Price offer",
+            "Service",
+            "Price",
             "Hook"
           ]
         },
         {
           number: "02",
           title: "Run targeted ads",
-          description: "Run effective Facebook and Instagram ads aimed at the right local clients.",
+          description: "Show it to the right local clients on Facebook and Instagram.",
           tags: [
             "Facebook",
             "Instagram",
-            "Local audience"
+            "Local clients"
           ]
         },
         {
           number: "03",
-          title: "Convert the click",
-          description: "Maximize conversion from ad click to booking request.",
+          title: "Turn clicks into bookings",
+          description: "Send clients to a short page made for booking requests.",
           tags: [
             "Booking page",
-            "Inquiry form",
+            "Form",
             "Follow-up"
           ]
         }
       ],
       flow: [
-        "Nail service offer",
+        "Nail offer",
         "Targeted ads",
-        "Short booking page",
+        "Booking page",
         "Booking request"
       ]
     },
     package: {
       eyebrow: "What you get",
-      title: "$119/month nail booking system",
-      body: "A focused setup for salons that need appointment requests, not quiet weekdays.",
+      title: "$119/month to launch the campaign",
+      body: "Everything needed to bring the offer live and start collecting requests.",
       label: "Nail Booking System",
-      cardTitle: "Built for nail appointments",
-      cardBody: "We prepare the campaign pieces and improve them month by month.",
+      cardTitle: "Built for nail bookings",
+      cardBody: "We build the campaign and improve it each month.",
       price: "$119",
       priceMeta: "per month",
       cta: "Get my free plan",
       included: "Included:",
       includes: [
         "12 posts per month",
-        "Facebook and Instagram ad setup",
-        "Nail-focused ad creative",
-        "Local audience targeting",
-        "Booking page and inquiry form",
-        "Monthly campaign improvement"
+        "Facebook and Instagram setup",
+        "Nail ad creative",
+        "Local targeting",
+        "Booking page and form",
+        "Monthly improvements"
       ]
     },
     campaign: {
       eyebrow: "Campaign preview",
-      title: "What clients see before they book",
-      body: "A clear nail offer, a short page, and an easy way to request an appointment.",
+      title: "What a client sees",
+      body: "A clear nail offer and one easy way to request an appointment.",
       videoAlt: "Video ad preview for a spa package",
       videoTitle: "Fresh Gel Set",
       videoMeta: "Gel manicure - book this week",
@@ -155,18 +155,18 @@ const copy = {
       ]
     },
     cta: {
-      title: "Fill more appointment slots with a clearer offer",
-      body: "Get a simple plan for the nail offer, page, and ad angle to test first.",
+      title: "Fill more nail slots with one clear offer",
+      body: "Get the first offer and booking path your salon should test.",
       button: "Get Free Plan"
     },
     form: {
       eyebrow: "Free, no pressure",
       title: "Get your free nail booking plan",
-      body: "Tell us about your salon. We will show you which offer to run first to grow revenue.",
+      body: "Tell us about your salon. We will show you what to run first.",
       expectations: [
-        "Best service or offer to run first",
-        "Revenue target to aim for over 12 months",
-        "Which current channel to fix first for better conversion"
+        "Which service to promote",
+        "What revenue target to aim for",
+        "What channel to fix first"
       ],
       privacy: "No spam. We only use this to prepare your plan.",
       successTitle: "Thank you!",
@@ -296,36 +296,28 @@ const copy = {
     },
     faq: {
       eyebrow: "FAQ",
-      title: "Questions nail salon owners ask us",
+      title: "What nail salon owners ask",
       items: [
         {
-          q: "Do I need ads running already?",
+          q: "Do I need ads already?",
           a: "No. We can start from zero."
         },
         {
-          q: "Is this only for nail salons?",
-          a: "It is built for nail salons, nail techs, and beauty studios."
-        },
-        {
           q: "Do I need a website?",
-          a: "No. We create the campaign landing page."
-        },
-        {
-          q: "Is 30 guaranteed?",
-          a: "No. We create the campaign booking page."
+          a: "No. We create the booking page."
         },
         {
           q: "Is 50 guaranteed?",
-          a: "No. It is the campaign target. Results depend on your market, offer, budget, and follow-up."
+          a: "No. It is the campaign target. Results depend on your offer, area, budget, and follow-up."
         },
         {
           q: "What happens after I submit?",
-          a: "We review your spa and send a simple campaign plan."
+          a: "We review your salon and send a simple campaign plan."
         }
       ]
     },
     footer: {
-      tagline: "Paid ad systems for nail salons and beauty businesses.",
+      tagline: "Paid ad campaigns for nail salons and beauty studios.",
       link: "Get your free nail booking plan",
       rights: "All rights reserved."
     }
@@ -344,65 +336,65 @@ const copy = {
       cta: "Nhận kế hoạch miễn phí"
     },
     hero: {
-      eyebrow: "Dành cho tiệm nail, thợ nail, salon làm đẹp và tiệm chăm sóc móng",
-      title: "Có 50 lượt yêu cầu đặt lịch cho tiệm nail mà không cần giảm giá mọi dịch vụ",
-      body: "Vietgrow xây ưu đãi, quảng cáo, trang đặt lịch và biểu mẫu để khách quanh khu vực hiểu ngay lý do nên chọn tiệm của bạn.",
+      eyebrow: "Dành cho tiệm nail và thợ nail",
+      title: "50 lượt đặt lịch mới cho tiệm nail",
+      body: "Một dịch vụ nail. Một giá thu hút. Một trang đặt lịch ngắn.",
       primary: "Nhận kế hoạch miễn phí",
       secondary: "Xem cách làm",
-      trusted: "Dành cho chủ tiệm nail và làm đẹp tại địa phương",
+      trusted: "Dành cho chủ tiệm nail muốn kín lịch hơn",
       lockIn: "Không ràng buộc dài hạn",
       leadTitle: "Yêu cầu đặt lịch mới",
       leadMeta: "Sơn gel - 2 phút trước",
-      callTitle: "50 lượt yêu cầu đặt lịch",
+      callTitle: "50 lượt đặt lịch",
       callMeta: "từ một chiến dịch địa phương",
       imageAlt: "Tiệm nail Việt với kỹ thuật viên đang làm móng gel cho khách"
     },
     results: {
-      title: "Đường đi rõ hơn từ cú nhấp quảng cáo đến lịch hẹn làm móng",
+      title: "Có thêm lịch hẹn mà không phải đoán nên đăng gì.",
       stats: [
         {
           value: "50",
-          label: "lượt yêu cầu đặt lịch nail"
+          label: "lượt đặt lịch"
         },
         {
-          value: "24/7",
-          label: "đường đặt lịch luôn hoạt động"
+          value: "1",
+          label: "dịch vụ nail để quảng bá"
         },
         {
           value: "$119",
-          label: "chi phí hằng tháng"
+          label: "mỗi tháng"
         }
       ]
     },
     system: {
       eyebrow: "Cách làm",
-      title: "Chọn đúng dịch vụ nail. Chạy đúng khách. Tối đa hóa lượt đặt lịch.",
-      body: "Quy trình 3 bước gọn để biến quảng cáo thành yêu cầu đặt lịch.",
+      title: "Cách biến một dịch vụ nail thành lịch hẹn mới",
+      body: "Một đường đi đơn giản từ chú ý đến yêu cầu đặt lịch.",
       steps: [
         {
           number: "01",
-          title: "Chọn dịch vụ nail",
+          title: "Chọn một dịch vụ nail",
           description: "Chọn 1 dịch vụ nail với giá giảm sốc để thu hút khách hàng.",
           tags: [
             "Dịch vụ nail",
-            "Giá thu hút",
+            "Giá tốt",
             "Điểm chú ý"
           ]
         },
         {
           number: "02",
           title: "Chạy quảng cáo đúng tệp",
-          description: "Chạy quảng cáo Facebook và Instagram hiệu quả, nhắm đúng đối tượng khách hàng.",
+          description: "Đưa ưu đãi đến đúng khách quanh tiệm trên Facebook và Instagram.",
           tags: [
             "Facebook",
             "Instagram",
-            "Khách phù hợp"
+            "Khách quanh tiệm"
           ]
         },
         {
           number: "03",
-          title: "Tăng chuyển đổi",
-          description: "Tăng tối đa chuyển đổi từ cú nhấp thành lượt yêu cầu đặt lịch.",
+          title: "Biến cú nhấp thành lịch hẹn",
+          description: "Dẫn khách về một trang ngắn, tập trung vào yêu cầu đặt lịch.",
           tags: [
             "Trang đặt lịch",
             "Biểu mẫu",
@@ -413,34 +405,34 @@ const copy = {
       flow: [
         "Dịch vụ nail giá tốt",
         "Quảng cáo đúng tệp",
-        "Trang đặt lịch ngắn",
+        "Trang đặt lịch",
         "Yêu cầu đặt lịch"
       ]
     },
     package: {
       eyebrow: "Bạn nhận được gì",
-      title: "Hệ thống đặt lịch nail $119 mỗi tháng",
-      body: "Một bộ triển khai gọn cho tiệm cần lịch hẹn mới, không phải những ngày vắng khách.",
+      title: "$119 mỗi tháng để chạy chiến dịch",
+      body: "Các phần cần thiết để đưa ưu đãi ra thị trường và nhận yêu cầu đặt lịch.",
       label: "Hệ thống đặt lịch nail",
       cardTitle: "Xây cho tiệm nail cần thêm lịch hẹn",
-      cardBody: "Vietgrow chuẩn bị các phần của chiến dịch và cải thiện hằng tháng.",
+      cardBody: "Vietgrow dựng chiến dịch và cải thiện hằng tháng.",
       price: "$119",
       priceMeta: "mỗi tháng",
       cta: "Nhận kế hoạch miễn phí",
       included: "Bao gồm:",
       includes: [
         "12 bài đăng mỗi tháng",
-        "Thiết lập quảng cáo Facebook và Instagram",
-        "Mẫu quảng cáo đúng ngành nail",
-        "Nhắm khách quanh khu vực",
+        "Thiết lập Facebook và Instagram",
+        "Mẫu quảng cáo ngành nail",
+        "Nhắm khách quanh tiệm",
         "Trang đặt lịch và biểu mẫu",
-        "Cải thiện chiến dịch hằng tháng"
+        "Cải thiện hằng tháng"
       ]
     },
     campaign: {
       eyebrow: "Minh họa chiến dịch",
-      title: "Khách thấy gì trước khi đặt lịch",
-      body: "Một ưu đãi nail rõ ràng, một trang ngắn và một cách đặt lịch dễ hiểu.",
+      title: "Khách sẽ thấy gì",
+      body: "Một ưu đãi nail rõ ràng và một cách đặt lịch thật dễ.",
       videoAlt: "Mẫu quảng cáo cho gói spa",
       videoTitle: "Bộ móng gel mới",
       videoMeta: "Sơn gel - đặt lịch trong tuần",
@@ -473,18 +465,18 @@ const copy = {
       ]
     },
     cta: {
-      title: "Lấp thêm lịch hẹn bằng một ưu đãi rõ ràng",
-      body: "Nhận kế hoạch đơn giản cho ưu đãi nail, trang đặt lịch và góc quảng cáo nên thử trước.",
+      title: "Lấp lịch nail bằng một ưu đãi rõ ràng",
+      body: "Nhận ưu đãi đầu tiên và đường đặt lịch nên thử cho tiệm của bạn.",
       button: "Nhận kế hoạch miễn phí"
     },
     form: {
       eyebrow: "Miễn phí, không gây áp lực",
-      title: "Nhận kế hoạch đặt lịch miễn phí cho tiệm nail",
-      body: "Cho Vietgrow biết về tiệm của bạn. Chúng tôi sẽ chỉ ra nên chạy ưu đãi nào trước để tăng doanh thu.",
+      title: "Nhận kế hoạch đặt lịch miễn phí",
+      body: "Cho Vietgrow biết về tiệm của bạn. Chúng tôi sẽ chỉ ra nên chạy gì trước.",
       expectations: [
-        "Dịch vụ hoặc ưu đãi nên chạy trước",
-        "Mức doanh thu cần nhắm trong 12 tháng",
-        "Kênh hiện tại nên sửa trước để tăng chuyển đổi"
+        "Dịch vụ nên quảng bá",
+        "Mục tiêu doanh thu nên nhắm tới",
+        "Kênh cần sửa trước"
       ],
       privacy: "Không gửi thư rác. Thông tin chỉ dùng để chuẩn bị kế hoạch.",
       successTitle: "Cảm ơn bạn!",
@@ -621,30 +613,22 @@ const copy = {
           a: "Không. Vietgrow có thể bắt đầu từ con số không."
         },
         {
-          q: "Dịch vụ này chỉ dành cho tiệm nail không?",
-          a: "Dành cho tiệm nail, thợ nail và salon làm đẹp."
-        },
-        {
           q: "Tôi có cần website không?",
-          a: "Không. Vietgrow tạo trang riêng cho chiến dịch."
-        },
-        {
-          q: "Có cam kết đúng 30 lượt không?",
-          a: "Không. Vietgrow tạo trang đặt lịch riêng cho chiến dịch."
+          a: "Không. Vietgrow tạo trang đặt lịch riêng."
         },
         {
           q: "Có cam kết đúng 50 lượt không?",
-          a: "Không. Đây là mục tiêu chiến dịch. Kết quả phụ thuộc vào khu vực, ưu đãi, ngân sách và cách chăm sóc khách."
+          a: "Không. Đây là mục tiêu chiến dịch. Kết quả phụ thuộc vào ưu đãi, khu vực, ngân sách và cách chăm sóc khách."
         },
         {
           q: "Sau khi gửi thông tin thì sao?",
-          a: "Vietgrow xem spa của bạn và gửi kế hoạch chiến dịch ngắn gọn."
+          a: "Vietgrow xem tiệm của bạn và gửi kế hoạch chiến dịch ngắn gọn."
         }
       ]
     },
     footer: {
-      tagline: "Hệ thống quảng cáo trả phí cho tiệm nail và salon làm đẹp.",
-      link: "Nhận kế hoạch đặt lịch miễn phí cho tiệm nail",
+      tagline: "Chiến dịch quảng cáo cho tiệm nail và salon làm đẹp.",
+      link: "Nhận kế hoạch đặt lịch miễn phí",
       rights: "Đã đăng ký bản quyền."
     }
   }
