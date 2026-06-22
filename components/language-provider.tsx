@@ -172,7 +172,7 @@ const copy = {
       successTitle: "Thank you!",
       successBody: "We received your details. Vietgrow will review your salon and send the next step shortly.",
       scheduleCta: "Schedule a 30-min call",
-      callCta: "Call Stillen",
+      callCta: "Call Vietgrow",
       callNote: "Need to ask first? Call 781-363-7322.",
       labels: {
         fullName: "Full name",
@@ -485,7 +485,7 @@ const copy = {
       successTitle: "Cảm ơn bạn!",
       successBody: "Vietgrow đã nhận thông tin và sẽ xem tiệm của bạn để gửi bước tiếp theo.",
       scheduleCta: "Đặt lịch 30 phút",
-      callCta: "Gọi Stillen",
+      callCta: "Gọi Vietgrow",
       callNote: "Muốn hỏi nhanh? Gọi 781-363-7322.",
       labels: {
         fullName: "Họ và tên",
