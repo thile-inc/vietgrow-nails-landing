@@ -28,7 +28,7 @@ const copy = {
     hero: {
       eyebrow: "For nail salons and nail techs",
       title: "Add 50 New Nail Bookings a Month",
-      body: "Push one nail service with a strong offer, run local ads, and send clients to a page built to book.",
+      body: "Launch one easy-to-book nail offer, run local ads, and send clients to a page built to book.",
       primary: "Get Free Plan",
       secondary: "See how it works",
       trusted: "For nail owners who need fuller calendars",
@@ -48,7 +48,7 @@ const copy = {
         },
         {
           value: "1",
-          label: "nail service to push"
+          label: "offer to launch"
         },
         {
           value: "$119",
@@ -58,15 +58,15 @@ const copy = {
     },
     system: {
       eyebrow: "How it works",
-      title: "Push one nail service. Reach nearby clients. Fill the calendar.",
-      body: "Give clients one clear offer and one easy next step.",
+      title: "Pick an offer. Run ads. Fill the calendar.",
+      body: "Give new clients one clear reason to book.",
       steps: [
         {
           number: "01",
-          title: "Choose one nail service",
-          description: "Pick one nail service with a strong price offer.",
+          title: "Pick one starter offer",
+          description: "Turn gel, pedi, or full set into a clear new-client offer.",
           tags: [
-            "Service",
+            "Offer",
             "Price",
             "Hook"
           ]
@@ -93,7 +93,7 @@ const copy = {
         }
       ],
       flow: [
-        "Nail offer",
+        "Starter offer",
         "Targeted ads",
         "Booking page",
         "Booking request"
@@ -102,7 +102,7 @@ const copy = {
     package: {
       eyebrow: "What you get",
       title: "Launch your nail booking campaign for $119/month",
-      body: "Get the pieces needed to bring in new nail appointments.",
+      body: "Get the pieces needed to turn one offer into new nail appointments.",
       label: "Nail Booking System",
       cardTitle: "Built for nail bookings",
       cardBody: "We build the campaign and improve it each month.",
@@ -123,11 +123,11 @@ const copy = {
       eyebrow: "Campaign preview",
       title: "What a client sees",
       body: "A clear nail offer and one easy way to request an appointment.",
-      videoAlt: "Video ad preview for a spa package",
+      videoAlt: "Video ad preview for a nail offer",
       videoTitle: "Fresh Gel Set",
       videoMeta: "Gel manicure - book this week",
       videoCaption: "Short video ad",
-      carouselAlt: "Carousel ad preview for a spa offer",
+      carouselAlt: "Carousel ad preview for a nail offer",
       carouselTitle: "New Client Gel Manicure",
       carouselMeta: "Fresh color and clean finish for first-time guests.",
       carouselCta: "Request my appointment",
@@ -156,7 +156,7 @@ const copy = {
     },
     cta: {
       title: "Start filling more nail slots",
-      body: "Get the first service, offer, and booking path your salon should run.",
+      body: "Get the first offer and booking path your salon should run.",
       button: "Get Free Plan"
     },
     form: {
@@ -164,7 +164,7 @@ const copy = {
       title: "Get your nail booking plan",
       body: "Tell us about your salon. We will show you what to promote first.",
       expectations: [
-        "Which service to promote",
+        "Which offer to launch",
         "What revenue target to aim for",
         "What channel to fix first"
       ],
@@ -337,15 +337,15 @@ const copy = {
     },
     hero: {
       eyebrow: "Dành cho tiệm nail và thợ nail",
-      title: "Tăng ngay 50 lượt đặt lịch mới/tháng cho tiệm nail",
-      body: "Chọn một dịch vụ nail giá tốt, chạy quảng cáo đúng khách và đưa họ về trang đặt lịch ngắn gọn.",
+      title: "Kéo thêm 50 lịch nail mới mỗi tháng",
+      body: "Dựng offer mồi, chạy ads đúng tệp, đưa khách về trang đặt lịch.",
       primary: "Nhận kế hoạch miễn phí",
       secondary: "Xem cách làm",
       trusted: "Dành cho chủ tiệm nail muốn kín lịch hơn",
       lockIn: "Không ràng buộc dài hạn",
       leadTitle: "Yêu cầu đặt lịch mới",
       leadMeta: "Sơn gel - 2 phút trước",
-      callTitle: "50 lượt đặt lịch mới/tháng",
+      callTitle: "50 lịch nail mới/tháng",
       callMeta: "từ một chiến dịch địa phương",
       imageAlt: "Tiệm nail Việt với kỹ thuật viên đang làm móng gel cho khách"
     },
@@ -354,11 +354,11 @@ const copy = {
       stats: [
         {
           value: "50",
-          label: "lượt đặt lịch mới/tháng"
+          label: "lịch nail mới/tháng"
         },
         {
           value: "1",
-          label: "dịch vụ nail cần đẩy mạnh"
+          label: "offer mồi cần chạy"
         },
         {
           value: "$119",
@@ -368,17 +368,17 @@ const copy = {
     },
     system: {
       eyebrow: "Cách làm",
-      title: "Đẩy một dịch vụ nail. Kéo đúng khách. Lấp lịch trống.",
-      body: "Cho khách một ưu đãi rõ và một bước đặt lịch thật dễ.",
+      title: "Chọn offer. Chạy ads. Lấp lịch.",
+      body: "Offer càng rõ, khách càng dễ đặt lịch.",
       steps: [
         {
           number: "01",
-          title: "Chọn một dịch vụ nail",
-          description: "Chọn 1 dịch vụ nail với giá giảm sốc để thu hút khách hàng.",
+          title: "Chọn offer mồi",
+          description: "Lấy gel, pedi hoặc full set rồi gắn ưu đãi đủ hút khách mới.",
           tags: [
-            "Dịch vụ nail",
-            "Giá tốt",
-            "Điểm hút khách"
+            "Offer mồi",
+            "Ưu đãi",
+            "Hook"
           ]
         },
         {
@@ -403,8 +403,8 @@ const copy = {
         }
       ],
       flow: [
-        "Dịch vụ nail giá tốt",
-        "Quảng cáo đúng tệp",
+        "Offer mồi",
+        "Ads đúng tệp",
         "Trang đặt lịch",
         "Yêu cầu đặt lịch"
       ]
@@ -412,7 +412,7 @@ const copy = {
     package: {
       eyebrow: "Bạn nhận được gì",
       title: "Chạy chiến dịch đặt lịch nail với $119/tháng",
-      body: "Có đủ phần cần thiết để kéo thêm lịch hẹn mới cho tiệm nail.",
+      body: "Có đủ phần cần chạy để biến một offer thành lịch hẹn mới.",
       label: "Hệ thống đặt lịch nail",
       cardTitle: "Xây cho tiệm nail cần thêm lịch hẹn",
       cardBody: "Vietgrow dựng chiến dịch và cải thiện hằng tháng.",
@@ -433,11 +433,11 @@ const copy = {
       eyebrow: "Minh họa chiến dịch",
       title: "Khách sẽ thấy gì",
       body: "Một ưu đãi nail rõ ràng và một cách đặt lịch thật dễ.",
-      videoAlt: "Mẫu quảng cáo cho gói spa",
+      videoAlt: "Mẫu quảng cáo cho offer nail",
       videoTitle: "Bộ móng gel mới",
       videoMeta: "Sơn gel - đặt lịch trong tuần",
       videoCaption: "Quảng cáo video ngắn",
-      carouselAlt: "Mẫu quảng cáo cho ưu đãi spa",
+      carouselAlt: "Mẫu quảng cáo cho offer nail",
       carouselTitle: "Sơn gel cho khách mới",
       carouselMeta: "Màu đẹp, dáng sạch, hoàn thiện chỉn chu cho khách lần đầu.",
       carouselCta: "Tôi muốn đặt lịch",
@@ -466,15 +466,15 @@ const copy = {
     },
     cta: {
       title: "Bắt đầu lấp thêm lịch hẹn cho tiệm nail",
-      body: "Nhận dịch vụ, ưu đãi và đường đặt lịch nên chạy trước.",
+      body: "Nhận offer và đường đặt lịch nên chạy trước.",
       button: "Nhận kế hoạch miễn phí"
     },
     form: {
       eyebrow: "Miễn phí, không gây áp lực",
       title: "Nhận kế hoạch kéo lịch hẹn cho tiệm nail",
-      body: "Cho Vietgrow biết về tiệm của bạn. Chúng tôi sẽ chỉ ra nên đẩy dịch vụ nào trước.",
+      body: "Cho Vietgrow biết về tiệm của bạn. Chúng tôi sẽ gợi ý offer nên chạy trước.",
       expectations: [
-        "Dịch vụ nên quảng bá",
+        "Offer nên chạy",
         "Mục tiêu doanh thu nên nhắm tới",
         "Kênh cần sửa trước"
       ],
