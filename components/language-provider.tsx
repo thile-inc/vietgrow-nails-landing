@@ -338,7 +338,7 @@ const copy = {
     hero: {
       eyebrow: "Dành cho tiệm nail và thợ nail",
       title: "Kéo thêm 50 lịch nail mới mỗi tháng",
-      body: "Dựng offer mồi, chạy ads đúng tệp, đưa khách về trang đặt lịch.",
+      body: "Dựng offer mồi, chạy quảng cáo đúng tệp, đưa khách về trang đặt lịch.",
       primary: "Nhận kế hoạch miễn phí",
       secondary: "Xem cách làm",
       trusted: "Dành cho chủ tiệm nail muốn kín lịch hơn",
@@ -368,7 +368,7 @@ const copy = {
     },
     system: {
       eyebrow: "Cách làm",
-      title: "Chọn offer. Chạy ads. Lấp lịch.",
+      title: "Chọn offer. Chạy quảng cáo. Lấp lịch.",
       body: "Offer càng rõ, khách càng dễ đặt lịch.",
       steps: [
         {
@@ -404,7 +404,7 @@ const copy = {
       ],
       flow: [
         "Offer mồi",
-        "Ads đúng tệp",
+        "Quảng cáo đúng tệp",
         "Trang đặt lịch",
         "Yêu cầu đặt lịch"
       ]
