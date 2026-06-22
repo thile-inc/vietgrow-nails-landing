@@ -13,567 +13,641 @@ type Language = 'en' | 'vi'
 
 const copy = {
   en: {
-  "lang": {
-    "current": "EN",
-    "next": "VI",
-    "toggleLabel": "Switch to Vietnamese"
-  },
-  "header": {
-    "how": "How it works",
-    "package": "$119 plan",
-    "results": "Results",
-    "faq": "FAQ",
-    "cta": "Get Free Plan"
-  },
-  "hero": {
-    "eyebrow": "For nail salons, manicure bars, beauty studios & mobile nail artists",
-    "title": "50 Nail Booking Requests",
-    "body": "A done-for-you ad funnel built to generate 50 nail booking requests. $119/month.",
-    "primary": "Get Free Plan",
-    "secondary": "See how it works",
-    "trusted": "Trusted by local nail & beauty owners",
-    "lockIn": "No long-term lock-in",
-    "leadTitle": "New consultation request",
-    "leadMeta": "Gel manicure · 2 min ago",
-    "callTitle": "50 booking requests",
-    "callMeta": "from your local ad campaign",
-    "imageAlt": "A Vietnamese nail salon with an Asian nail technician doing a gel manicure"
-  },
-  "results": {
-    "title": "Built to turn ad clicks into bookings",
-    "stats": [
-      {
-        "value": "50",
-        "label": "nail booking requests"
-      },
-      {
-        "value": "24/7",
-        "label": "ad-to-booking path"
-      },
-      {
-        "value": "Done-for-you",
-        "label": "ads + booking page"
-      }
-    ]
-  },
-  "system": {
-    "eyebrow": "The Vietgrow Nail Salon Growth System",
-    "title": "How it works",
-    "body": "Three steps. One clear path from click to booking.",
-    "steps": [
-      {
-        "number": "01",
-        "title": "Pick the offer",
-        "description": "Choose one nail offer people can understand fast.",
-        "tags": [
-          "Offer",
-          "Creative",
-          "Message"
-        ]
-      },
-      {
-        "number": "02",
-        "title": "Run local traffic",
-        "description": "Run Facebook and Instagram ads to local clients.",
-        "tags": [
-          "Local targeting",
-          "FB & IG campaigns",
-          "Budget control"
-        ]
-      },
-      {
-        "number": "03",
-        "title": "Convert on the page",
-        "description": "Send clicks to a short booking page and lead form.",
-        "tags": [
-          "Landing page",
-          "Lead form",
-          "Follow-up path"
-        ]
-      }
-    ],
-    "flow": [
-      "Nail Offer + Ad Creative",
-      "Local Traffic",
-      "Landing Page + Lead Form",
-      "Appointment / Booking"
-    ]
-  },
-  "package": {
-    "eyebrow": "What you get",
-    "title": "$119/month nail booking system",
-    "body": "Everything needed to launch a simple local ad funnel.",
-    "label": "Nail Salon Growth System",
-    "cardTitle": "Done-for-you ad funnel",
-    "cardBody": "We build the ads, page, form, and monthly improvements.",
-    "priceMeta": "per month",
-    "cta": "Get my free plan",
-    "included": "Everything included:",
-    "includes": [
-      "12 posts per month",
-      "Facebook & Instagram ad setup",
-      "Nail ad creative",
-      "Local audience targeting",
-      "Landing page + lead form",
-      "Monthly optimization"
-    ]
-  },
-  "campaign": {
-    "eyebrow": "Campaign previews",
-    "title": "See what your ad-to-booking journey looks like",
-    "body": "From a scroll-stopping ad to a finished booking request — here's the experience we build for your clients.",
-    "videoAlt": "Video ad preview for a glossy manicure and nail art package",
-    "videoTitle": "Gloss & Go Gel Set",
-    "videoMeta": "Gel manicure + simple art · Book this week",
-    "videoCaption": "Short-form video ad",
-    "carouselAlt": "Carousel ad preview showing a new client gel manicure offer",
-    "carouselTitle": "New Client Gel Manicure",
-    "carouselMeta": "Fresh color, cuticle care, and a glossy finish.",
-    "carouselCta": "Book my nail appointment",
-    "carouselCaption": "Carousel & offer creative",
-    "formTitle": "Request your appointment",
-    "formFields": [
-      "Full name",
-      "Phone number",
-      "Service of interest"
-    ],
-    "formCta": "Request booking",
-    "formStatus": "Lead captured & sent to your inbox",
-    "formCaption": "Nail salon landing page & lead form",
-    "conceptsLabel": "Campaign concepts we build for nail salons:",
-    "concepts": [
-      "New client gel manicure offer",
-      "Pedicure refresh campaign",
-      "Acrylic fill promotion",
-      "BIAB / builder gel special",
-      "Weekday appointment fill",
-      "Seasonal nail art launch",
-      "Bridal nail package",
-      "French tip set campaign",
-      "Lash + nail beauty bundle"
-    ]
-  },
-  "cta": {
-    "title": "Ready to stop wasting local ad clicks?",
-    "body": "Get a free, practical growth plan built for your nail salon — your offers, your services, your local market. No pressure, no obligation.",
-    "button": "Get Free Plan"
-  },
-  "form": {
-    "eyebrow": "Free, no pressure",
-    "title": "Get your free nail growth plan",
-    "body": "Tell us about your salon. We will send back what to fix first to get more bookings.",
-    "expectations": [
-      "Best offer angle to test",
-      "Where bookings are leaking",
-      "What to fix first"
-    ],
-    "privacy": "No spam. No pressure. We only use this to prepare your plan.",
-    "successTitle": "Thank you!",
-    "successBody": "We've received your details and will prepare your free nail salon growth plan. Our team will reach out shortly with your next steps.",
-    "labels": {
-      "fullName": "Full name",
-      "businessName": "Business name",
-      "phone": "Phone number",
-      "email": "Email",
-      "businessType": "Business type",
-      "budget": "Monthly ad budget",
-      "message": "Anything else?",
-      "optional": "(optional)"
+    lang: {
+      current: "EN",
+      next: "VI",
+      toggleLabel: "Switch to Vietnamese"
     },
-    "placeholders": {
-      "fullName": "Jane Doe",
-      "businessName": "Gloss Nail Studio",
-      "phone": "(555) 123-4567",
-      "email": "you@nailsalon.com",
-      "businessType": "Select type",
-      "budget": "Select budget",
-      "message": "Tell us about your goals, location, or current challenges."
+    header: {
+      how: "How it works",
+      package: "$119 plan",
+      results: "Proof",
+      faq: "FAQ",
+      cta: "Get Free Plan"
     },
-    "businessTypes": [
-      {
-        "value": "Nail Salon",
-        "label": "Nail Salon"
+    hero: {
+      eyebrow: "For nail salons, nail techs, beauty bars, and manicure studios",
+      title: "Get 50 Nail Booking Requests Without Discounting Every Service",
+      body: "Vietgrow builds the offer, ads, booking page, and inquiry form so nearby clients know exactly why to choose your salon.",
+      primary: "Get Free Plan",
+      secondary: "See how it works",
+      trusted: "Built for local nail and beauty owners",
+      lockIn: "No long-term contract",
+      leadTitle: "New appointment request",
+      leadMeta: "Gel manicure - 2 min ago",
+      callTitle: "50 booking requests",
+      callMeta: "from one local campaign",
+      imageAlt: "A Vietnamese nail salon with an Asian nail technician doing a gel manicure"
+    },
+    results: {
+      title: "A clearer path from ad click to nail appointment",
+      stats: [
+        {
+          value: "50",
+          label: "nail booking requests"
+        },
+        {
+          value: "24/7",
+          label: "booking path stays live"
+        },
+        {
+          value: "$119",
+          label: "monthly system fee"
+        }
+      ]
+    },
+    system: {
+      eyebrow: "How it works",
+      title: "Choose one nail offer. Reach the right clients. Turn clicks into bookings.",
+      body: "A simple three-step path built for new appointment requests.",
+      steps: [
+        {
+          number: "01",
+          title: "Choose the nail service",
+          description: "Pick one nail service with a bold price offer to attract new clients.",
+          tags: [
+            "Nail service",
+            "Price offer",
+            "Hook"
+          ]
+        },
+        {
+          number: "02",
+          title: "Run targeted ads",
+          description: "Run effective Facebook and Instagram ads aimed at the right local clients.",
+          tags: [
+            "Facebook",
+            "Instagram",
+            "Local audience"
+          ]
+        },
+        {
+          number: "03",
+          title: "Convert the click",
+          description: "Maximize conversion from ad click to booking request.",
+          tags: [
+            "Booking page",
+            "Inquiry form",
+            "Follow-up"
+          ]
+        }
+      ],
+      flow: [
+        "Nail service offer",
+        "Targeted ads",
+        "Short booking page",
+        "Booking request"
+      ]
+    },
+    package: {
+      eyebrow: "What you get",
+      title: "$119/month nail booking system",
+      body: "A focused setup for salons that need appointment requests, not quiet weekdays.",
+      label: "Nail Booking System",
+      cardTitle: "Built for nail appointments",
+      cardBody: "We prepare the campaign pieces and improve them month by month.",
+      price: "$119",
+      priceMeta: "per month",
+      cta: "Get my free plan",
+      included: "Included:",
+      includes: [
+        "12 posts per month",
+        "Facebook and Instagram ad setup",
+        "Nail-focused ad creative",
+        "Local audience targeting",
+        "Booking page and inquiry form",
+        "Monthly campaign improvement"
+      ]
+    },
+    campaign: {
+      eyebrow: "Campaign preview",
+      title: "What clients see before they book",
+      body: "A clear nail offer, a short page, and an easy way to request an appointment.",
+      videoAlt: "Video ad preview for a spa package",
+      videoTitle: "Fresh Gel Set",
+      videoMeta: "Gel manicure - book this week",
+      videoCaption: "Short video ad",
+      carouselAlt: "Carousel ad preview for a spa offer",
+      carouselTitle: "New Client Gel Manicure",
+      carouselMeta: "Fresh color and clean finish for first-time guests.",
+      carouselCta: "Request my appointment",
+      carouselCaption: "Offer creative",
+      formTitle: "Request your appointment",
+      formFields: [
+        "Full name",
+        "Phone number",
+        "Service interest"
+      ],
+      formCta: "Send request",
+      formStatus: "Request sent to your inbox",
+      formCaption: "Landing page and inquiry form",
+      conceptsLabel: "Strong nail campaign angles:",
+      concepts: [
+        "Gel manicure for new clients",
+        "Pedicure refresh",
+        "Acrylic fill",
+        "Builder gel set",
+        "Weekday appointment fill",
+        "Seasonal nail art",
+        "Bridal nails",
+        "French tip set",
+        "Nail and lash bundle"
+      ]
+    },
+    cta: {
+      title: "Fill more appointment slots with a clearer offer",
+      body: "Get a simple plan for the nail offer, page, and ad angle to test first.",
+      button: "Get Free Plan"
+    },
+    form: {
+      eyebrow: "Free, no pressure",
+      title: "Get your free nail booking plan",
+      body: "Tell us about your salon. We will show you which offer to run first to grow revenue.",
+      expectations: [
+        "Best service or offer to run first",
+        "Revenue target to aim for over 12 months",
+        "Which current channel to fix first for better conversion"
+      ],
+      privacy: "No spam. We only use this to prepare your plan.",
+      successTitle: "Thank you!",
+      successBody: "We received your details. Vietgrow will review your salon and send the next step shortly.",
+      labels: {
+        fullName: "Full name",
+        businessName: "Business name",
+        phone: "Phone number",
+        email: "Email",
+        businessType: "Business type",
+        budget: "Current monthly revenue",
+        message: "Anything else?",
+        optional: "(optional)",
+        revenueGoal: "How much more revenue do you want in 12 months?",
+        currentAssets: "What do you already have?"
       },
-      {
-        "value": "Manicure / Pedicure Studio",
-        "label": "Manicure / Pedicure Studio"
+      placeholders: {
+        fullName: "Jane Doe",
+        businessName: "Gloss Nail Studio",
+        phone: "(555) 123-4567",
+        email: "you@nailsalon.com",
+        businessType: "Select type",
+        budget: "Select current revenue",
+        message: "Share your city, main service, or current challenge.",
+        revenueGoal: "Select revenue goal",
+        currentAssets: "Select current assets"
       },
-      {
-        "value": "Independent Nail Tech",
-        "label": "Independent Nail Tech"
-      },
-      {
-        "value": "Mobile Nail Artist",
-        "label": "Mobile Nail Artist"
-      },
-      {
-        "value": "Nail & Beauty Salon",
-        "label": "Nail & Beauty Salon"
-      },
-      {
-        "value": "Lash, Brow & Nail Studio",
-        "label": "Lash, Brow & Nail Studio"
-      },
-      {
-        "value": "Beauty Bar",
-        "label": "Beauty Bar"
-      },
-      {
-        "value": "Other Nail Business",
-        "label": "Other Nail Business"
-      }
-    ],
-    "budgets": [
-      {
-        "value": "Under $500/month",
-        "label": "Under $500/month"
-      },
-      {
-        "value": "$500–$1,000/month",
-        "label": "$500–$1,000/month"
-      },
-      {
-        "value": "$1,000–$2,500/month",
-        "label": "$1,000–$2,500/month"
-      },
-      {
-        "value": "$2,500+/month",
-        "label": "$2,500+/month"
-      },
-      {
-        "value": "Not sure yet",
-        "label": "Not sure yet"
-      }
-    ],
-    "submitting": "Submitting...",
-    "submit": "Get Free Plan",
-    "footer": "No spam. No pressure. Just your free plan."
+      businessTypes: [
+        {
+          value: "Nail Salon",
+          label: "Nail Salon"
+        },
+        {
+          value: "Manicure / Pedicure Studio",
+          label: "Manicure / Pedicure Studio"
+        },
+        {
+          value: "Independent Nail Tech",
+          label: "Independent Nail Tech"
+        },
+        {
+          value: "Mobile Nail Artist",
+          label: "Mobile Nail Artist"
+        },
+        {
+          value: "Nail & Beauty Salon",
+          label: "Nail & Beauty Salon"
+        },
+        {
+          value: "Beauty Bar",
+          label: "Beauty Bar"
+        },
+        {
+          value: "Other Nail Business",
+          label: "Other Nail Business"
+        }
+      ],
+      budgets: [
+        {
+          value: "$5k/month",
+          label: "$5k/month"
+        },
+        {
+          value: "$10k/month",
+          label: "$10k/month"
+        },
+        {
+          value: "$50k/month",
+          label: "$50k/month"
+        },
+        {
+          value: "$100k+/month",
+          label: "$100k+/month"
+        }
+      ],
+      submitting: "Submitting...",
+      submit: "Get Free Plan",
+      footer: "No spam. Just a practical plan.",
+      revenueGoals: [
+        {
+          value: "+$5k/month",
+          label: "+$5k/month"
+        },
+        {
+          value: "+$10k/month",
+          label: "+$10k/month"
+        },
+        {
+          value: "+$50k/month",
+          label: "+$50k/month"
+        },
+        {
+          value: "+$100k+/month",
+          label: "+$100k+/month"
+        }
+      ],
+      currentAssets: [
+        {
+          value: "Website",
+          label: "Website"
+        },
+        {
+          value: "Facebook / Instagram / TikTok",
+          label: "Facebook / Instagram / TikTok"
+        },
+        {
+          value: "Google Maps profile",
+          label: "Google Maps profile"
+        },
+        {
+          value: "Website + social channels",
+          label: "Website + social channels"
+        },
+        {
+          value: "Social channels + Google Maps profile",
+          label: "Social channels + Google Maps profile"
+        },
+        {
+          value: "Website + social channels + Google Maps profile",
+          label: "Website + social channels + Google Maps profile"
+        },
+        {
+          value: "None yet",
+          label: "None yet"
+        }
+      ]
+    },
+    faq: {
+      eyebrow: "FAQ",
+      title: "Questions nail salon owners ask us",
+      items: [
+        {
+          q: "Do I need ads running already?",
+          a: "No. We can start from zero."
+        },
+        {
+          q: "Is this only for nail salons?",
+          a: "It is built for nail salons, nail techs, and beauty studios."
+        },
+        {
+          q: "Do I need a website?",
+          a: "No. We create the campaign landing page."
+        },
+        {
+          q: "Is 30 guaranteed?",
+          a: "No. We create the campaign booking page."
+        },
+        {
+          q: "Is 50 guaranteed?",
+          a: "No. It is the campaign target. Results depend on your market, offer, budget, and follow-up."
+        },
+        {
+          q: "What happens after I submit?",
+          a: "We review your spa and send a simple campaign plan."
+        }
+      ]
+    },
+    footer: {
+      tagline: "Paid ad systems for nail salons and beauty businesses.",
+      link: "Get your free nail booking plan",
+      rights: "All rights reserved."
+    }
   },
-  "faq": {
-    "eyebrow": "FAQ",
-    "title": "Questions nail salon owners ask us",
-    "items": [
-      {
-        "q": "Do I need to already have ads running?",
-        "a": "No. We can build the funnel from scratch."
-      },
-      {
-        "q": "Is this only for nail salons?",
-        "a": "It is built for nail salons, nail techs, and beauty studios."
-      },
-      {
-        "q": "Do you create the ad content?",
-        "a": "Yes. We create the ad concepts, visuals, and offers."
-      },
-      {
-        "q": "Do I need a website?",
-        "a": "No. We build the landing page and lead form for the campaign."
-      },
-      {
-        "q": "Will this guarantee bookings?",
-        "a": "No. We build the system to improve conversion, but bookings depend on offer, market, and follow-up."
-      },
-      {
-        "q": "How much ad budget do I need?",
-        "a": "It depends on your area. We will recommend a realistic starting budget."
-      },
-      {
-        "q": "What happens after I submit the form?",
-        "a": "We review your salon and send back a practical plan."
-      },
-      {
-        "q": "Can this work for gel, acrylics, pedicures, or nail art?",
-        "a": "Yes. We tailor the funnel around your strongest nail service or offer."
-      }
-    ]
-  },
-  "footer": {
-    "tagline": "Paid-ad growth systems for nail salons and beauty businesses.",
-    "link": "Get your free nail salon growth plan",
-    "rights": "All rights reserved."
-  }
-},
   vi: {
-  "lang": {
-    "current": "VI",
-    "next": "EN",
-    "toggleLabel": "Switch to English"
-  },
-  "header": {
-    "how": "Cách hoạt động",
-    "package": "Gói $119",
-    "results": "Kết quả",
-    "faq": "FAQ",
-    "cta": "Nhận plan miễn phí"
-  },
-  "hero": {
-    "eyebrow": "Dành cho nail salon, manicure bar, beauty studio và mobile nail artist",
-    "title": "50 lượt booking requests cho nail salon",
-    "body": "Ad funnel done-for-you được xây để tạo 50 lượt booking requests cho nail salon. $119/tháng.",
-    "primary": "Nhận plan miễn phí",
-    "secondary": "Xem cách hoạt động",
-    "trusted": "Được tin dùng bởi chủ nail salon và beauty business local",
-    "lockIn": "Không ràng buộc dài hạn",
-    "leadTitle": "Yêu cầu tư vấn mới",
-    "leadMeta": "Gel manicure · 2 phút trước",
-    "callTitle": "50 lượt booking requests",
-    "callMeta": "từ local ad campaign của bạn",
-    "imageAlt": "Tiệm nail Việt với nail technician người Việt/Asian đang làm gel manicure cho khách"
-  },
-  "results": {
-    "title": "Xây để biến click ads thành booking",
-    "stats": [
-      {
-        "value": "50",
-        "label": "lượt booking requests cho nail"
-      },
-      {
-        "value": "24/7",
-        "label": "đường ads-to-booking"
-      },
-      {
-        "value": "Done-for-you",
-        "label": "ads + booking page"
-      }
-    ]
-  },
-  "system": {
-    "eyebrow": "Vietgrow Nail Salon Growth System",
-    "title": "Cách hoạt động",
-    "body": "3 bước ngắn. Một đường rõ từ click đến booking.",
-    "steps": [
-      {
-        "number": "01",
-        "title": "Chọn offer",
-        "description": "Chọn một offer nail khách hiểu ngay.",
-        "tags": [
-          "Offer strategy",
-          "Video & carousel ads",
-          "Premium visuals"
-        ]
-      },
-      {
-        "number": "02",
-        "title": "Kéo traffic local đúng tệp",
-        "description": "Chạy Facebook và Instagram ads đến khách local.",
-        "tags": [
-          "Local targeting",
-          "FB & IG campaigns",
-          "Budget control"
-        ]
-      },
-      {
-        "number": "03",
-        "title": "Chuyển đổi trên landing page",
-        "description": "Đưa click về booking page ngắn và lead form.",
-        "tags": [
-          "Landing page",
-          "Lead form",
-          "Follow-up path"
-        ]
-      }
-    ],
-    "flow": [
-      "Nail Offer + Ad Creative",
-      "Local Traffic",
-      "Landing Page + Lead Form",
-      "Appointment / Booking"
-    ]
-  },
-  "package": {
-    "eyebrow": "Gói dịch vụ",
-    "title": "Hệ thống booking nail $119/tháng",
-    "body": "Những phần cần để launch một local ad funnel gọn.",
-    "label": "Nail Salon Growth System",
-    "cardTitle": "Ad funnel done-for-you",
-    "cardBody": "Vietgrow làm ads, page, form và tối ưu hằng tháng.",
-    "priceMeta": "mỗi tháng",
-    "cta": "Nhận plan miễn phí",
-    "included": "Bao gồm tất cả:",
-    "includes": [
-      "12 bài post mỗi tháng",
-      "Setup Facebook & Instagram ads",
-      "Ad creative ngành nail",
-      "Target khách local",
-      "Landing page + lead form",
-      "Tối ưu hằng tháng"
-    ]
-  },
-  "campaign": {
-    "eyebrow": "Campaign preview",
-    "title": "Hành trình từ ad đến booking sẽ trông như thế nào",
-    "body": "Từ một mẫu ad thu hút trên feed đến form đặt lịch hoàn chỉnh, đây là experience chúng tôi xây cho khách của bạn.",
-    "videoAlt": "Video ad preview cho gói manicure và nail art",
-    "videoTitle": "Gloss & Go Gel Set",
-    "videoMeta": "Gel manicure + simple art · Book trong tuần này",
-    "videoCaption": "Short-form video ad",
-    "carouselAlt": "Carousel ad preview cho offer gel manicure khách mới",
-    "carouselTitle": "New Client Gel Manicure",
-    "carouselMeta": "Màu mới, chăm sóc cuticle và finish bóng đẹp.",
-    "carouselCta": "Book lịch làm nail",
-    "carouselCaption": "Carousel & offer creative",
-    "formTitle": "Đăng ký lịch hẹn",
-    "formFields": [
-      "Họ và tên",
-      "Số điện thoại",
-      "Dịch vụ quan tâm"
-    ],
-    "formCta": "Yêu cầu booking",
-    "formStatus": "Lead đã được ghi nhận và gửi về inbox",
-    "formCaption": "Nail salon landing page & lead form",
-    "conceptsLabel": "Campaign concept chúng tôi xây cho nail salon:",
-    "concepts": [
-      "Offer gel manicure cho khách mới",
-      "Campaign pedicure refresh",
-      "Promotion acrylic fill",
-      "BIAB / builder gel special",
-      "Lấp lịch hẹn ngày thường",
-      "Launch seasonal nail art",
-      "Bridal nail package",
-      "Campaign French tip set",
-      "Bundle lash + nail beauty"
-    ]
-  },
-  "cta": {
-    "title": "Sẵn sàng ngừng lãng phí click local?",
-    "body": "Nhận một growth plan thực tế, miễn phí, được xây theo nail salon của bạn: offer, dịch vụ và thị trường local. Không ép bán, không ràng buộc.",
-    "button": "Nhận plan miễn phí"
-  },
-  "form": {
-    "eyebrow": "Miễn phí, không áp lực",
-    "title": "Nhận plan miễn phí",
-    "body": "Gửi thông tin salon. Vietgrow sẽ chỉ ra nên sửa gì trước để có thêm booking.",
-    "expectations": [
-      "Offer angle nên test",
-      "Điểm đang rò rỉ booking",
-      "Việc cần sửa trước"
-    ],
-    "privacy": "Không spam. Không gây áp lực. Chỉ dùng để chuẩn bị plan.",
-    "successTitle": "Cảm ơn bạn!",
-    "successBody": "Chúng tôi đã nhận thông tin và sẽ chuẩn bị nail salon growth plan miễn phí. Team Vietgrow sẽ liên hệ sớm với bước tiếp theo.",
-    "labels": {
-      "fullName": "Họ và tên",
-      "businessName": "Tên business",
-      "phone": "Số điện thoại",
-      "email": "Email",
-      "businessType": "Loại hình business",
-      "budget": "Ngân sách ads hằng tháng",
-      "message": "Thông tin thêm?",
-      "optional": "(không bắt buộc)"
+    lang: {
+      current: "VI",
+      next: "EN",
+      toggleLabel: "Chuyển sang tiếng Anh"
     },
-    "placeholders": {
-      "fullName": "Nguyen An",
-      "businessName": "Gloss Nail Studio",
-      "phone": "(555) 123-4567",
-      "email": "you@nailsalon.com",
-      "businessType": "Chọn loại hình",
-      "budget": "Chọn ngân sách",
-      "message": "Chia sẻ mục tiêu, khu vực hoặc vấn đề hiện tại của bạn."
+    header: {
+      how: "Cách làm",
+      package: "Gói $119",
+      results: "Kết quả",
+      faq: "Hỏi đáp",
+      cta: "Nhận kế hoạch miễn phí"
     },
-    "businessTypes": [
-      {
-        "value": "Nail Salon",
-        "label": "Nail Salon"
+    hero: {
+      eyebrow: "Dành cho tiệm nail, thợ nail, salon làm đẹp và tiệm chăm sóc móng",
+      title: "Có 50 lượt yêu cầu đặt lịch cho tiệm nail mà không cần giảm giá mọi dịch vụ",
+      body: "Vietgrow xây ưu đãi, quảng cáo, trang đặt lịch và biểu mẫu để khách quanh khu vực hiểu ngay lý do nên chọn tiệm của bạn.",
+      primary: "Nhận kế hoạch miễn phí",
+      secondary: "Xem cách làm",
+      trusted: "Dành cho chủ tiệm nail và làm đẹp tại địa phương",
+      lockIn: "Không ràng buộc dài hạn",
+      leadTitle: "Yêu cầu đặt lịch mới",
+      leadMeta: "Sơn gel - 2 phút trước",
+      callTitle: "50 lượt yêu cầu đặt lịch",
+      callMeta: "từ một chiến dịch địa phương",
+      imageAlt: "Tiệm nail Việt với kỹ thuật viên đang làm móng gel cho khách"
+    },
+    results: {
+      title: "Đường đi rõ hơn từ cú nhấp quảng cáo đến lịch hẹn làm móng",
+      stats: [
+        {
+          value: "50",
+          label: "lượt yêu cầu đặt lịch nail"
+        },
+        {
+          value: "24/7",
+          label: "đường đặt lịch luôn hoạt động"
+        },
+        {
+          value: "$119",
+          label: "chi phí hằng tháng"
+        }
+      ]
+    },
+    system: {
+      eyebrow: "Cách làm",
+      title: "Chọn đúng dịch vụ nail. Chạy đúng khách. Tối đa hóa lượt đặt lịch.",
+      body: "Quy trình 3 bước gọn để biến quảng cáo thành yêu cầu đặt lịch.",
+      steps: [
+        {
+          number: "01",
+          title: "Chọn dịch vụ nail",
+          description: "Chọn 1 dịch vụ nail với giá giảm sốc để thu hút khách hàng.",
+          tags: [
+            "Dịch vụ nail",
+            "Giá thu hút",
+            "Điểm chú ý"
+          ]
+        },
+        {
+          number: "02",
+          title: "Chạy quảng cáo đúng tệp",
+          description: "Chạy quảng cáo Facebook và Instagram hiệu quả, nhắm đúng đối tượng khách hàng.",
+          tags: [
+            "Facebook",
+            "Instagram",
+            "Khách phù hợp"
+          ]
+        },
+        {
+          number: "03",
+          title: "Tăng chuyển đổi",
+          description: "Tăng tối đa chuyển đổi từ cú nhấp thành lượt yêu cầu đặt lịch.",
+          tags: [
+            "Trang đặt lịch",
+            "Biểu mẫu",
+            "Chăm sóc khách"
+          ]
+        }
+      ],
+      flow: [
+        "Dịch vụ nail giá tốt",
+        "Quảng cáo đúng tệp",
+        "Trang đặt lịch ngắn",
+        "Yêu cầu đặt lịch"
+      ]
+    },
+    package: {
+      eyebrow: "Bạn nhận được gì",
+      title: "Hệ thống đặt lịch nail $119 mỗi tháng",
+      body: "Một bộ triển khai gọn cho tiệm cần lịch hẹn mới, không phải những ngày vắng khách.",
+      label: "Hệ thống đặt lịch nail",
+      cardTitle: "Xây cho tiệm nail cần thêm lịch hẹn",
+      cardBody: "Vietgrow chuẩn bị các phần của chiến dịch và cải thiện hằng tháng.",
+      price: "$119",
+      priceMeta: "mỗi tháng",
+      cta: "Nhận kế hoạch miễn phí",
+      included: "Bao gồm:",
+      includes: [
+        "12 bài đăng mỗi tháng",
+        "Thiết lập quảng cáo Facebook và Instagram",
+        "Mẫu quảng cáo đúng ngành nail",
+        "Nhắm khách quanh khu vực",
+        "Trang đặt lịch và biểu mẫu",
+        "Cải thiện chiến dịch hằng tháng"
+      ]
+    },
+    campaign: {
+      eyebrow: "Minh họa chiến dịch",
+      title: "Khách thấy gì trước khi đặt lịch",
+      body: "Một ưu đãi nail rõ ràng, một trang ngắn và một cách đặt lịch dễ hiểu.",
+      videoAlt: "Mẫu quảng cáo cho gói spa",
+      videoTitle: "Bộ móng gel mới",
+      videoMeta: "Sơn gel - đặt lịch trong tuần",
+      videoCaption: "Quảng cáo video ngắn",
+      carouselAlt: "Mẫu quảng cáo cho ưu đãi spa",
+      carouselTitle: "Sơn gel cho khách mới",
+      carouselMeta: "Màu đẹp, dáng sạch, hoàn thiện chỉn chu cho khách lần đầu.",
+      carouselCta: "Tôi muốn đặt lịch",
+      carouselCaption: "Mẫu ưu đãi",
+      formTitle: "Gửi yêu cầu đặt lịch",
+      formFields: [
+        "Họ và tên",
+        "Số điện thoại",
+        "Dịch vụ quan tâm"
+      ],
+      formCta: "Gửi yêu cầu",
+      formStatus: "Yêu cầu đã được gửi về hộp thư của bạn",
+      formCaption: "Trang đích và biểu mẫu đặt lịch",
+      conceptsLabel: "Góc chiến dịch mạnh cho tiệm nail:",
+      concepts: [
+        "Sơn gel cho khách mới",
+        "Làm mới móng chân",
+        "Dặm bột",
+        "Gel cứng",
+        "Lấp lịch ngày thường",
+        "Mẫu móng theo mùa",
+        "Móng cô dâu",
+        "Móng kiểu Pháp",
+        "Gói móng và mi"
+      ]
+    },
+    cta: {
+      title: "Lấp thêm lịch hẹn bằng một ưu đãi rõ ràng",
+      body: "Nhận kế hoạch đơn giản cho ưu đãi nail, trang đặt lịch và góc quảng cáo nên thử trước.",
+      button: "Nhận kế hoạch miễn phí"
+    },
+    form: {
+      eyebrow: "Miễn phí, không gây áp lực",
+      title: "Nhận kế hoạch đặt lịch miễn phí cho tiệm nail",
+      body: "Cho Vietgrow biết về tiệm của bạn. Chúng tôi sẽ chỉ ra nên chạy ưu đãi nào trước để tăng doanh thu.",
+      expectations: [
+        "Dịch vụ hoặc ưu đãi nên chạy trước",
+        "Mức doanh thu cần nhắm trong 12 tháng",
+        "Kênh hiện tại nên sửa trước để tăng chuyển đổi"
+      ],
+      privacy: "Không gửi thư rác. Thông tin chỉ dùng để chuẩn bị kế hoạch.",
+      successTitle: "Cảm ơn bạn!",
+      successBody: "Vietgrow đã nhận thông tin và sẽ xem tiệm của bạn để gửi bước tiếp theo.",
+      labels: {
+        fullName: "Họ và tên",
+        businessName: "Tên cơ sở",
+        phone: "Số điện thoại",
+        email: "Email",
+        businessType: "Loại hình cơ sở",
+        budget: "Doanh thu hiện tại của tiệm",
+        message: "Thông tin thêm?",
+        optional: "(không bắt buộc)",
+        revenueGoal: "Trong 12 tháng muốn tăng thêm bao nhiêu doanh thu?",
+        currentAssets: "Hiện tại bạn đang có gì?"
       },
-      {
-        "value": "Manicure / Pedicure Studio",
-        "label": "Manicure / Pedicure Studio"
+      placeholders: {
+        fullName: "Nguyễn An",
+        businessName: "Gloss Nail Studio",
+        phone: "(555) 123-4567",
+        email: "you@nailsalon.com",
+        businessType: "Chọn loại hình",
+        budget: "Chọn mức doanh thu hiện tại",
+        message: "Chia sẻ thêm khu vực, dịch vụ chính hoặc vấn đề bạn đang gặp.",
+        revenueGoal: "Chọn mục tiêu tăng doanh thu",
+        currentAssets: "Chọn những gì đang có"
       },
-      {
-        "value": "Independent Nail Tech",
-        "label": "Independent Nail Tech"
-      },
-      {
-        "value": "Mobile Nail Artist",
-        "label": "Mobile Nail Artist"
-      },
-      {
-        "value": "Nail & Beauty Salon",
-        "label": "Nail & Beauty Salon"
-      },
-      {
-        "value": "Lash, Brow & Nail Studio",
-        "label": "Lash, Brow & Nail Studio"
-      },
-      {
-        "value": "Beauty Bar",
-        "label": "Beauty Bar"
-      },
-      {
-        "value": "Other Nail Business",
-        "label": "Nail/beauty business khác"
-      }
-    ],
-    "budgets": [
-      {
-        "value": "Under $500/month",
-        "label": "Dưới $500/tháng"
-      },
-      {
-        "value": "$500–$1,000/month",
-        "label": "$500–$1,000/tháng"
-      },
-      {
-        "value": "$1,000–$2,500/month",
-        "label": "$1,000–$2,500/tháng"
-      },
-      {
-        "value": "$2,500+/month",
-        "label": "Trên $2,500/tháng"
-      },
-      {
-        "value": "Not sure yet",
-        "label": "Chưa chắc"
-      }
-    ],
-    "submitting": "Đang gửi...",
-    "submit": "Nhận plan miễn phí",
-    "footer": "Không spam. Không áp lực. Chỉ là plan miễn phí cho bạn."
-  },
-  "faq": {
-    "eyebrow": "FAQ",
-    "title": "Những câu hỏi chủ nail salon thường hỏi",
-    "items": [
-      {
-        "q": "Tôi có cần đang chạy ads sẵn không?",
-        "a": "Không. Vietgrow có thể xây funnel từ đầu."
-      },
-      {
-        "q": "Dịch vụ này chỉ dành cho nail salon thôi hả?",
-        "a": "Dành cho nail salon, nail tech và beauty studio."
-      },
-      {
-        "q": "Vietgrow có làm ad content không?",
-        "a": "Có. Vietgrow làm concept, visual và offer cho ads."
-      },
-      {
-        "q": "Tôi có cần website không?",
-        "a": "Không. Vietgrow xây landing page và lead form cho campaign."
-      },
-      {
-        "q": "Dịch vụ này có cam kết booking không?",
-        "a": "Không cam kết số booking tuyệt đối. Vietgrow xây hệ thống để tăng khả năng chuyển đổi."
-      },
-      {
-        "q": "Tôi cần ngân sách ads bao nhiêu?",
-        "a": "Tùy khu vực. Vietgrow sẽ đề xuất mức bắt đầu thực tế."
-      },
-      {
-        "q": "Sau khi gửi form thì chuyện gì xảy ra?",
-        "a": "Vietgrow review salon và gửi lại plan thực tế."
-      },
-      {
-        "q": "Có phù hợp với gel, acrylic, pedicure hoặc nail art không?",
-        "a": "Có. Funnel sẽ đi theo dịch vụ hoặc offer mạnh nhất của bạn."
-      }
-    ]
-  },
-  "footer": {
-    "tagline": "Hệ thống paid ads growth cho nail salon và beauty business.",
-    "link": "Nhận nail salon growth plan miễn phí",
-    "rights": "All rights reserved."
+      businessTypes: [
+        {
+          value: "Nail Salon",
+          label: "Tiệm nail"
+        },
+        {
+          value: "Manicure / Pedicure Studio",
+          label: "Tiệm làm móng tay và móng chân"
+        },
+        {
+          value: "Independent Nail Tech",
+          label: "Thợ nail độc lập"
+        },
+        {
+          value: "Mobile Nail Artist",
+          label: "Thợ nail phục vụ tận nơi"
+        },
+        {
+          value: "Nail & Beauty Salon",
+          label: "Tiệm nail và làm đẹp"
+        },
+        {
+          value: "Beauty Bar",
+          label: "Salon làm đẹp"
+        },
+        {
+          value: "Other Nail Business",
+          label: "Loại hình nail khác"
+        }
+      ],
+      budgets: [
+        {
+          value: "$5k/month",
+          label: "$5k mỗi tháng"
+        },
+        {
+          value: "$10k/month",
+          label: "$10k mỗi tháng"
+        },
+        {
+          value: "$50k/month",
+          label: "$50k mỗi tháng"
+        },
+        {
+          value: "$100k+/month",
+          label: "Trên $100k mỗi tháng"
+        }
+      ],
+      submitting: "Đang gửi...",
+      submit: "Nhận kế hoạch miễn phí",
+      footer: "Không gửi thư rác. Chỉ là một kế hoạch thực tế.",
+      revenueGoals: [
+        {
+          value: "+$5k/month",
+          label: "Tăng thêm $5k mỗi tháng"
+        },
+        {
+          value: "+$10k/month",
+          label: "Tăng thêm $10k mỗi tháng"
+        },
+        {
+          value: "+$50k/month",
+          label: "Tăng thêm $50k mỗi tháng"
+        },
+        {
+          value: "+$100k+/month",
+          label: "Tăng thêm trên $100k mỗi tháng"
+        }
+      ],
+      currentAssets: [
+        {
+          value: "Website",
+          label: "Website"
+        },
+        {
+          value: "Facebook / Instagram / TikTok",
+          label: "Facebook / Instagram / TikTok"
+        },
+        {
+          value: "Google Maps profile",
+          label: "Hồ sơ Google Maps"
+        },
+        {
+          value: "Website + social channels",
+          label: "Website và kênh mạng xã hội"
+        },
+        {
+          value: "Social channels + Google Maps profile",
+          label: "Kênh mạng xã hội và hồ sơ Google Maps"
+        },
+        {
+          value: "Website + social channels + Google Maps profile",
+          label: "Website, kênh mạng xã hội và hồ sơ Google Maps"
+        },
+        {
+          value: "None yet",
+          label: "Chưa có gì"
+        }
+      ]
+    },
+    faq: {
+      eyebrow: "Hỏi đáp",
+      title: "Chủ tiệm nail thường hỏi",
+      items: [
+        {
+          q: "Tôi có cần đang chạy quảng cáo không?",
+          a: "Không. Vietgrow có thể bắt đầu từ con số không."
+        },
+        {
+          q: "Dịch vụ này chỉ dành cho tiệm nail không?",
+          a: "Dành cho tiệm nail, thợ nail và salon làm đẹp."
+        },
+        {
+          q: "Tôi có cần website không?",
+          a: "Không. Vietgrow tạo trang riêng cho chiến dịch."
+        },
+        {
+          q: "Có cam kết đúng 30 lượt không?",
+          a: "Không. Vietgrow tạo trang đặt lịch riêng cho chiến dịch."
+        },
+        {
+          q: "Có cam kết đúng 50 lượt không?",
+          a: "Không. Đây là mục tiêu chiến dịch. Kết quả phụ thuộc vào khu vực, ưu đãi, ngân sách và cách chăm sóc khách."
+        },
+        {
+          q: "Sau khi gửi thông tin thì sao?",
+          a: "Vietgrow xem spa của bạn và gửi kế hoạch chiến dịch ngắn gọn."
+        }
+      ]
+    },
+    footer: {
+      tagline: "Hệ thống quảng cáo trả phí cho tiệm nail và salon làm đẹp.",
+      link: "Nhận kế hoạch đặt lịch miễn phí cho tiệm nail",
+      rights: "Đã đăng ký bản quyền."
+    }
   }
-},
 } as const
 
 type Copy = (typeof copy)[Language]
