@@ -19,7 +19,7 @@ const copy = {
     "toggleLabel": "Switch to Vietnamese"
   },
   "header": {
-    "how": "Offer",
+    "how": "How it works",
     "package": "$119 plan",
     "results": "Results",
     "faq": "FAQ",
@@ -27,10 +27,10 @@ const copy = {
   },
   "hero": {
     "eyebrow": "For nail salons, manicure bars, beauty studios & mobile nail artists",
-    "title": "Stop Losing Nail Clients After They Click",
-    "body": "Get a clear offer, local ads, and a booking page built to turn clicks into nail appointments. $119/month.",
+    "title": "+50% More Nail Booking Requests",
+    "body": "A done-for-you ad funnel for nail salons: offer, local ads, booking page, and lead form. $119/month.",
     "primary": "Get Free Plan",
-    "secondary": "View $119 plan",
+    "secondary": "See how it works",
     "trusted": "Trusted by local nail & beauty owners",
     "lockIn": "No long-term lock-in",
     "leadTitle": "New consultation request",
@@ -58,23 +58,23 @@ const copy = {
   },
   "system": {
     "eyebrow": "The Vietgrow Nail Salon Growth System",
-    "title": "The 3-part funnel we build for your nail salon",
-    "body": "No random boosted posts. One offer, one local campaign, one page built to book.",
+    "title": "How it works",
+    "body": "Three steps. One clear path from click to booking.",
     "steps": [
       {
         "number": "01",
-        "title": "Clarify the offer",
-        "description": "We turn your services into clear, click-worthy campaign concepts — gel manicure offers, pedicure promos, acrylic fill specials, nail art sets, bridal packages, and seasonal designs — with short-form video ideas, carousel creatives, and polished beauty visuals.",
+        "title": "Pick the offer",
+        "description": "Choose one nail offer people can understand fast.",
         "tags": [
-          "Offer strategy",
-          "Video & carousel ads",
-          "Premium visuals"
+          "Offer",
+          "Creative",
+          "Message"
         ]
       },
       {
         "number": "02",
         "title": "Run local traffic",
-        "description": "We launch and manage Facebook & Instagram campaigns focused on reaching people near your salon who are most likely to book manicures, pedicures, extensions, fills, and nail art.",
+        "description": "Run Facebook and Instagram ads to local clients.",
         "tags": [
           "Local targeting",
           "FB & IG campaigns",
@@ -84,7 +84,7 @@ const copy = {
       {
         "number": "03",
         "title": "Convert on the page",
-        "description": "Traffic lands on a nail-specific page with a lead form and a conversion-focused journey built to turn clicks into appointment inquiries, design requests, and real booking opportunities.",
+        "description": "Send clicks to a short booking page and lead form.",
         "tags": [
           "Landing page",
           "Lead form",
@@ -300,7 +300,7 @@ const copy = {
     "toggleLabel": "Switch to English"
   },
   "header": {
-    "how": "Offer",
+    "how": "Cách hoạt động",
     "package": "Gói $119",
     "results": "Kết quả",
     "faq": "FAQ",
@@ -308,10 +308,10 @@ const copy = {
   },
   "hero": {
     "eyebrow": "Dành cho nail salon, manicure bar, beauty studio và mobile nail artist",
-    "title": "Đừng để khách nail rơi mất sau cú click",
-    "body": "Offer rõ, ads local, booking page và form để biến click thành lịch nail. $119/tháng.",
+    "title": "+50% booking requests cho nail salon",
+    "body": "Ad funnel done-for-you cho nail salon: offer, ads local, booking page và lead form. $119/tháng.",
     "primary": "Nhận plan miễn phí",
-    "secondary": "Xem gói $119",
+    "secondary": "Xem cách hoạt động",
     "trusted": "Được tin dùng bởi chủ nail salon và beauty business local",
     "lockIn": "Không ràng buộc dài hạn",
     "leadTitle": "Yêu cầu tư vấn mới",
@@ -339,13 +339,13 @@ const copy = {
   },
   "system": {
     "eyebrow": "Vietgrow Nail Salon Growth System",
-    "title": "Funnel 3 phần Vietgrow xây cho nail salon của bạn",
-    "body": "Không boost post ngẫu nhiên. Một offer rõ, một campaign local, một page được xây để đặt lịch.",
+    "title": "Cách hoạt động",
+    "body": "3 bước ngắn. Một đường rõ từ click đến booking.",
     "steps": [
       {
         "number": "01",
-        "title": "Làm rõ offer",
-        "description": "Chúng tôi biến dịch vụ của bạn thành campaign concept rõ ràng, dễ click: gel manicure offer, pedicure promo, acrylic fill special, nail art set, bridal package và seasonal design, kèm ý tưởng video ngắn, carousel creative và visual chuẩn beauty.",
+        "title": "Chọn offer",
+        "description": "Chọn một offer nail khách hiểu ngay.",
         "tags": [
           "Offer strategy",
           "Video & carousel ads",
@@ -355,7 +355,7 @@ const copy = {
       {
         "number": "02",
         "title": "Kéo traffic local đúng tệp",
-        "description": "Chúng tôi launch và quản lý campaign Facebook & Instagram tập trung vào nhóm khách gần salon, có khả năng đặt manicure, pedicure, extension, fill và nail art.",
+        "description": "Chạy Facebook và Instagram ads đến khách local.",
         "tags": [
           "Local targeting",
           "FB & IG campaigns",
@@ -365,7 +365,7 @@ const copy = {
       {
         "number": "03",
         "title": "Chuyển đổi trên landing page",
-        "description": "Traffic được đưa về landing page riêng cho nail salon, có lead form và journey tối ưu chuyển đổi để tạo appointment inquiry, design request và cơ hội booking thật.",
+        "description": "Đưa click về booking page ngắn và lead form.",
         "tags": [
           "Landing page",
           "Lead form",
