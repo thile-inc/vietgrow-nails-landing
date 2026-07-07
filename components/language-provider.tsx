@@ -23,13 +23,13 @@ const copy = {
       package: "$119 plan",
       results: "Proof",
       faq: "FAQ",
-      cta: "Get Free Plan"
+      cta: "Book Now"
     },
     hero: {
       eyebrow: "For nail salons and nail techs",
       title: "Add 50 New Nail Bookings a Month",
       body: "Launch one easy-to-book nail offer, run local ads, and send clients to a page built to book.",
-      primary: "Get Free Plan",
+      primary: "Book Now",
       secondary: "See how it works",
       trusted: "For nail owners who need fuller calendars",
       lockIn: "No long-term contract",
@@ -115,7 +115,7 @@ const copy = {
         "Facebook and Instagram setup",
         "Nail ad creative",
         "Local targeting",
-        "Booking page and form",
+        "Booking page",
         "Monthly improvements"
       ]
     },
@@ -138,9 +138,9 @@ const copy = {
         "Phone number",
         "Service interest"
       ],
-      formCta: "Send request",
-      formStatus: "Request sent to your inbox",
-      formCaption: "Landing page and inquiry form",
+      formCta: "Book Now",
+      formStatus: "Meeting link opened for booking",
+      formCaption: "Meeting booking page",
       conceptsLabel: "Strong nail campaign angles:",
       concepts: [
         "Gel manicure for new clients",
@@ -157,7 +157,7 @@ const copy = {
     cta: {
       title: "Start filling more nail slots",
       body: "Get the first offer and booking path your salon should run.",
-      button: "Get Free Plan"
+      button: "Book Now"
     },
     form: {
       eyebrow: "Free, no pressure",
@@ -171,7 +171,7 @@ const copy = {
       privacy: "No spam. We only use this to prepare your plan.",
       successTitle: "Thank you!",
       successBody: "We received your details. Vietgrow will review your salon and send the next step shortly.",
-      scheduleCta: "Schedule a 30-min call",
+      scheduleCta: "Book Now",
       callCta: "Call Vietgrow",
       callNote: "Need to ask first? Call 781-363-7322.",
       labels: {
@@ -246,7 +246,7 @@ const copy = {
         }
       ],
       submitting: "Submitting...",
-      submit: "Get Free Plan",
+      submit: "Book Now",
       footer: "No spam. Just a practical plan.",
       revenueGoals: [
         {
@@ -314,7 +314,7 @@ const copy = {
           a: "No. It is the campaign target. Results depend on your offer, area, budget, and follow-up."
         },
         {
-          q: "What happens after I submit?",
+          q: "What happens after I book?",
           a: "We review your salon and send a simple campaign plan."
         }
       ]
@@ -336,13 +336,13 @@ const copy = {
       package: "Gói $119",
       results: "Kết quả",
       faq: "Hỏi đáp",
-      cta: "Nhận kế hoạch miễn phí"
+      cta: "Đặt lịch ngay"
     },
     hero: {
       eyebrow: "Dành cho tiệm nail và thợ nail",
       title: "Kéo thêm 50 lịch nail mới mỗi tháng",
       body: "Dựng offer mồi, chạy quảng cáo đúng tệp, đưa khách về trang đặt lịch.",
-      primary: "Nhận kế hoạch miễn phí",
+      primary: "Đặt lịch ngay",
       secondary: "Xem cách làm",
       trusted: "Dành cho chủ tiệm nail muốn kín lịch hơn",
       lockIn: "Không ràng buộc dài hạn",
@@ -421,7 +421,7 @@ const copy = {
       cardBody: "Vietgrow dựng chiến dịch và cải thiện hằng tháng.",
       price: "$119",
       priceMeta: "mỗi tháng",
-      cta: "Nhận kế hoạch miễn phí",
+      cta: "Đặt lịch ngay",
       included: "Bao gồm:",
       includes: [
         "12 bài đăng mỗi tháng",
@@ -445,15 +445,15 @@ const copy = {
       carouselMeta: "Màu đẹp, dáng sạch, hoàn thiện chỉn chu cho khách lần đầu.",
       carouselCta: "Tôi muốn đặt lịch",
       carouselCaption: "Mẫu ưu đãi",
-      formTitle: "Gửi yêu cầu đặt lịch",
+      formTitle: "Đặt lịch tư vấn",
       formFields: [
         "Họ và tên",
         "Số điện thoại",
         "Dịch vụ quan tâm"
       ],
-      formCta: "Gửi yêu cầu",
-      formStatus: "Yêu cầu đã được gửi về hộp thư của bạn",
-      formCaption: "Trang đích và biểu mẫu đặt lịch",
+      formCta: "Đặt lịch ngay",
+      formStatus: "Đường đặt lịch đã sẵn sàng",
+      formCaption: "Trang đặt lịch hẹn",
       conceptsLabel: "Góc chiến dịch mạnh cho tiệm nail:",
       concepts: [
         "Sơn gel cho khách mới",
@@ -470,7 +470,7 @@ const copy = {
     cta: {
       title: "Bắt đầu lấp thêm lịch hẹn cho tiệm nail",
       body: "Nhận offer và đường đặt lịch nên chạy trước.",
-      button: "Nhận kế hoạch miễn phí"
+      button: "Đặt lịch ngay"
     },
     form: {
       eyebrow: "Miễn phí, không gây áp lực",
@@ -484,7 +484,7 @@ const copy = {
       privacy: "Không gửi thư rác. Thông tin chỉ dùng để chuẩn bị kế hoạch.",
       successTitle: "Cảm ơn bạn!",
       successBody: "Vietgrow đã nhận thông tin và sẽ xem tiệm của bạn để gửi bước tiếp theo.",
-      scheduleCta: "Đặt lịch 30 phút",
+      scheduleCta: "Đặt lịch ngay",
       callCta: "Gọi Vietgrow",
       callNote: "Muốn hỏi nhanh? Gọi 781-363-7322.",
       labels: {
@@ -559,7 +559,7 @@ const copy = {
         }
       ],
       submitting: "Đang gửi...",
-      submit: "Nhận kế hoạch miễn phí",
+      submit: "Đặt lịch ngay",
       footer: "Không gửi thư rác. Chỉ là một kế hoạch thực tế.",
       revenueGoals: [
         {
@@ -634,7 +634,7 @@ const copy = {
     },
     footer: {
       tagline: "Chiến dịch quảng cáo cho tiệm nail và salon làm đẹp.",
-      link: "Nhận kế hoạch đặt lịch miễn phí",
+      link: "Đặt lịch ngay",
       rights: "Đã đăng ký bản quyền."
     }
   }
