@@ -20,7 +20,7 @@ const copy = {
     },
     header: {
       how: "How it works",
-      package: "$119 plan",
+      package: "$250 plan",
       results: "Proof",
       faq: "FAQ",
       cta: "Book Now"
@@ -51,7 +51,7 @@ const copy = {
           label: "offer to launch"
         },
         {
-          value: "$119",
+          value: "$250",
           label: "per month"
         }
       ]
@@ -101,12 +101,12 @@ const copy = {
     },
     package: {
       eyebrow: "What you get",
-      title: "Launch your nail booking campaign for $119/month",
+      title: "Launch your nail booking campaign for $250/month",
       body: "Get the pieces needed to turn one offer into new nail appointments.",
       label: "Nail Booking System",
       cardTitle: "Built for nail bookings",
       cardBody: "We build the campaign and improve it each month.",
-      price: "$119",
+      price: "$250",
       priceMeta: "per month",
       cta: "Get my free plan",
       included: "Included:",
@@ -333,7 +333,7 @@ const copy = {
     },
     header: {
       how: "Cách làm",
-      package: "Gói $119",
+      package: "Gói $250",
       results: "Kết quả",
       faq: "Hỏi đáp",
       cta: "Đặt lịch ngay"
@@ -364,7 +364,7 @@ const copy = {
           label: "offer mồi cần chạy"
         },
         {
-          value: "$119",
+          value: "$250",
           label: "mỗi tháng"
         }
       ]
@@ -414,12 +414,12 @@ const copy = {
     },
     package: {
       eyebrow: "Bạn nhận được gì",
-      title: "Chạy chiến dịch đặt lịch nail với $119/tháng",
+      title: "Chạy chiến dịch đặt lịch nail với $250/tháng",
       body: "Có đủ phần cần chạy để biến một offer thành lịch hẹn mới.",
       label: "Hệ thống đặt lịch nail",
       cardTitle: "Xây cho tiệm nail cần thêm lịch hẹn",
       cardBody: "Vietgrow dựng chiến dịch và cải thiện hằng tháng.",
-      price: "$119",
+      price: "$250",
       priceMeta: "mỗi tháng",
       cta: "Đặt lịch ngay",
       included: "Bao gồm:",
